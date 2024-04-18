@@ -1,0 +1,78 @@
+C:\Users\olste\Desktop\Navegador\Nav\Codigo\Componentes\Navegador\CapaControlador\bin\Release\CapaControladorNav.dll
+C:\Users\olste\Desktop\Navegador\Nav\Codigo\Componentes\Navegador\CapaControlador\bin\Release\CapaControladorNav.pdb
+C:\Users\olste\Desktop\Navegador\Nav\Codigo\Componentes\Navegador\CapaControlador\bin\Release\CapaModeloNav.dll
+C:\Users\olste\Desktop\Navegador\Nav\Codigo\Componentes\Navegador\CapaControlador\bin\Release\CapaModeloNav.pdb
+C:\Users\olste\Desktop\Navegador\Nav\Codigo\Componentes\Navegador\CapaControlador\obj\Release\CapaControladorNav.csproj.AssemblyReference.cache
+C:\Users\olste\Desktop\Navegador\Nav\Codigo\Componentes\Navegador\CapaControlador\obj\Release\CapaControladorNav.csproj.CoreCompileInputs.cache
+C:\Users\olste\Desktop\Navegador\Nav\Codigo\Componentes\Navegador\CapaControlador\obj\Release\CapaControladorNav.csproj.CopyComplete
+C:\Users\olste\Desktop\Navegador\Nav\Codigo\Componentes\Navegador\CapaControlador\obj\Release\CapaControladorNav.dll
+C:\Users\olste\Desktop\Navegador\Nav\Codigo\Componentes\Navegador\CapaControlador\obj\Release\CapaControladorNav.pdb
+C:\Users\olste\Desktop\Navegador\Nav\Codigo\Componentes\Navegador\CapaControlador\bin\Release\CapaVistaNav.dll
+C:\Users\olste\Desktop\Navegador\Nav\Codigo\Componentes\Navegador\CapaControlador\bin\Release\Seguridad_Controlador.dll
+C:\Users\olste\Desktop\Navegador\Nav\Codigo\Componentes\Navegador\CapaControlador\bin\Release\Modelo_Seguridad.dll
+C:\Users\olste\Desktop\Navegador\Nav\Codigo\Componentes\Navegador\CapaControlador\bin\Release\CapaVistaNav.pdb
+C:\Users\olste\Desktop\Navegador\NavegadorCS\CapaControlador\bin\Release\CapaControladorNav.dll
+C:\Users\olste\Desktop\Navegador\NavegadorCS\CapaControlador\bin\Release\CapaControladorNav.pdb
+C:\Users\olste\Desktop\Navegador\NavegadorCS\CapaControlador\bin\Release\CapaModeloNav.dll
+C:\Users\olste\Desktop\Navegador\NavegadorCS\CapaControlador\bin\Release\Seguridad_Controlador.dll
+C:\Users\olste\Desktop\Navegador\NavegadorCS\CapaControlador\bin\Release\Modelo_Seguridad.dll
+C:\Users\olste\Desktop\Navegador\NavegadorCS\CapaControlador\bin\Release\CapaModeloNav.pdb
+C:\Users\olste\Desktop\Navegador\NavegadorCS\CapaControlador\bin\Release\CapaVistaNav.pdb
+C:\Users\olste\Desktop\Navegador\NavegadorCS\CapaControlador\obj\Release\CapaControladorNav.csproj.AssemblyReference.cache
+C:\Users\olste\Desktop\Navegador\NavegadorCS\CapaControlador\obj\Release\CapaControladorNav.csproj.CoreCompileInputs.cache
+C:\Users\olste\Desktop\Navegador\NavegadorCS\CapaControlador\obj\Release\CapaControladorNav.csproj.CopyComplete
+C:\Users\olste\Desktop\Navegador\NavegadorCS\CapaControlador\obj\Release\CapaControladorNav.dll
+C:\Users\olste\Desktop\Navegador\NavegadorCS\CapaControlador\obj\Release\CapaControladorNav.pdb
+C:\Users\olste\Desktop\Navegador\NavegadorCS\CapaControlador\bin\Release\CapaVistaNav.dll
+C:\Users\olste\Desktop\Navegador\proyectoads22023\Codigo\Componentes\Navegador\CapaControlador\bin\Release\CapaControladorNav.dll
+C:\Users\olste\Desktop\Navegador\proyectoads22023\Codigo\Componentes\Navegador\CapaControlador\bin\Release\CapaControladorNav.pdb
+C:\Users\olste\Desktop\Navegador\proyectoads22023\Codigo\Componentes\Navegador\CapaControlador\bin\Release\CapaModeloNav.dll
+C:\Users\olste\Desktop\Navegador\proyectoads22023\Codigo\Componentes\Navegador\CapaControlador\bin\Release\CapaModeloNav.pdb
+C:\Users\olste\Desktop\Navegador\proyectoads22023\Codigo\Componentes\Navegador\CapaControlador\obj\Release\CapaControladorNav.csproj.CoreCompileInputs.cache
+C:\Users\olste\Desktop\Navegador\proyectoads22023\Codigo\Componentes\Navegador\CapaControlador\obj\Release\CapaControladorNav.csproj.CopyComplete
+C:\Users\olste\Desktop\Navegador\proyectoads22023\Codigo\Componentes\Navegador\CapaControlador\obj\Release\CapaControladorNav.dll
+C:\Users\olste\Desktop\Navegador\proyectoads22023\Codigo\Componentes\Navegador\CapaControlador\obj\Release\CapaControladorNav.pdb
+C:\Users\olste\Desktop\Navegador\proyectoads22023\Codigo\Componentes\Navegador\CapaControlador\bin\Release\Seguridad_Controlador.dll
+C:\Users\olste\Desktop\Navegador\proyectoads22023\Codigo\Componentes\Navegador\CapaControlador\bin\Release\Modelo_Seguridad.dll
+C:\Users\olste\Desktop\Navegador\proyectoads22023\Codigo\Componentes\Navegador\CapaControlador\bin\Release\CapaVistaNav.pdb
+C:\Users\olste\Desktop\Navegador\proyectoads22023\Codigo\Componentes\Navegador\CapaControlador\obj\Release\CapaControladorNav.csproj.AssemblyReference.cache
+C:\Users\olste\Desktop\Navegador\proyectoads22023\Codigo\Componentes\Navegador\CapaControlador\bin\Release\CapaVistaNav.dll
+C:\Users\olste\Desktop\OLIVER 2019\Tareas\Noveno Semestre\sources\ISP12k24\Equipo2\Codigo\Componentes\Navegador\CapaControlador\bin\Release\CapaControladorNav.dll
+C:\Users\olste\Desktop\OLIVER 2019\Tareas\Noveno Semestre\sources\ISP12k24\Equipo2\Codigo\Componentes\Navegador\CapaControlador\bin\Release\CapaControladorNav.pdb
+C:\Users\olste\Desktop\OLIVER 2019\Tareas\Noveno Semestre\sources\ISP12k24\Equipo2\Codigo\Componentes\Navegador\CapaControlador\bin\Release\CapaModeloNav.dll
+C:\Users\olste\Desktop\OLIVER 2019\Tareas\Noveno Semestre\sources\ISP12k24\Equipo2\Codigo\Componentes\Navegador\CapaControlador\bin\Release\CapaModeloNav.pdb
+C:\Users\olste\Desktop\OLIVER 2019\Tareas\Noveno Semestre\sources\ISP12k24\Equipo2\Codigo\Componentes\Navegador\CapaControlador\obj\Release\CapaControladorNav.csproj.CoreCompileInputs.cache
+C:\Users\olste\Desktop\OLIVER 2019\Tareas\Noveno Semestre\sources\ISP12k24\Equipo2\Codigo\Componentes\Navegador\CapaControlador\obj\Release\CapaControladorNav.csproj.CopyComplete
+C:\Users\olste\Desktop\OLIVER 2019\Tareas\Noveno Semestre\sources\ISP12k24\Equipo2\Codigo\Componentes\Navegador\CapaControlador\obj\Release\CapaControladorNav.dll
+C:\Users\olste\Desktop\OLIVER 2019\Tareas\Noveno Semestre\sources\ISP12k24\Equipo2\Codigo\Componentes\Navegador\CapaControlador\obj\Release\CapaControladorNav.pdb
+C:\Users\olste\Desktop\OLIVER 2019\Tareas\Noveno Semestre\sources\ISP12k24\Equipo2\Codigo\Componentes\Navegador\CapaControlador\obj\Release\CapaControladorNav.csproj.AssemblyReference.cache
+C:\Users\olste\Desktop\OLIVER 2019\Tareas\Noveno Semestre\sources\ISP12k24\Equipo2\Codigo\Componentes\Navegador\CapaControlador\bin\Release\CapaVistaNav.dll
+C:\Users\olste\Desktop\OLIVER 2019\Tareas\Noveno Semestre\sources\ISP12k24\Equipo2\Codigo\Componentes\Navegador\CapaControlador\bin\Release\Seguridad_Controlador.dll
+C:\Users\olste\Desktop\OLIVER 2019\Tareas\Noveno Semestre\sources\ISP12k24\Equipo2\Codigo\Componentes\Navegador\CapaControlador\bin\Release\Modelo_Seguridad.dll
+C:\Users\olste\Desktop\OLIVER 2019\Tareas\Noveno Semestre\sources\ISP12k24\Equipo2\Codigo\Componentes\Navegador\CapaControlador\bin\Release\CapaVistaNav.pdb
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Componentes\Navegador\CapaControlador\bin\Release\CapaControladorNav.dll
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Componentes\Navegador\CapaControlador\bin\Release\CapaControladorNav.pdb
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Componentes\Navegador\CapaControlador\bin\Release\CapaModeloNav.dll
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Componentes\Navegador\CapaControlador\bin\Release\CapaVistaNav.dll
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Componentes\Navegador\CapaControlador\bin\Release\Seguridad_Controlador.dll
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Componentes\Navegador\CapaControlador\bin\Release\Modelo_Seguridad.dll
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Componentes\Navegador\CapaControlador\bin\Release\CapaModeloNav.pdb
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Componentes\Navegador\CapaControlador\bin\Release\CapaVistaNav.pdb
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Componentes\Navegador\CapaControlador\obj\Release\CapaControladorNav.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Componentes\Navegador\CapaControlador\obj\Release\CapaControladorNav.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Componentes\Navegador\CapaControlador\obj\Release\CapaCont.E6D2795C.Up2Date
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Componentes\Navegador\CapaControlador\obj\Release\CapaControladorNav.dll
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Componentes\Navegador\CapaControlador\obj\Release\CapaControladorNav.pdb
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Componentes\Navegador\CapaControlador\bin\Release\CapaControladorNav.dll
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Componentes\Navegador\CapaControlador\bin\Release\CapaControladorNav.pdb
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Componentes\Navegador\CapaControlador\bin\Release\CapaModeloNav.dll
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Componentes\Navegador\CapaControlador\bin\Release\CapaVistaNav.dll
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Componentes\Navegador\CapaControlador\bin\Release\Seguridad_Controlador.dll
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Componentes\Navegador\CapaControlador\bin\Release\Modelo_Seguridad.dll
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Componentes\Navegador\CapaControlador\bin\Release\CapaModeloNav.pdb
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Componentes\Navegador\CapaControlador\bin\Release\CapaVistaNav.pdb
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Componentes\Navegador\CapaControlador\obj\Release\CapaControladorNav.csproj.AssemblyReference.cache
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Componentes\Navegador\CapaControlador\obj\Release\CapaControladorNav.csproj.CoreCompileInputs.cache
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Componentes\Navegador\CapaControlador\obj\Release\CapaControladorNav.csproj.CopyComplete
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Componentes\Navegador\CapaControlador\obj\Release\CapaControladorNav.dll
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Componentes\Navegador\CapaControlador\obj\Release\CapaControladorNav.pdb

@@ -1,0 +1,39 @@
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosFinales\proyectoads22023\Codigo\Modulos\Menu\Modelo\bin\Debug\Modelo_MenuHCV.dll
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosFinales\proyectoads22023\Codigo\Modulos\Menu\Modelo\bin\Debug\Modelo_MenuHCV.pdb
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosFinales\proyectoads22023\Codigo\Modulos\Menu\Modelo\obj\Debug\Modelo_MenuHCv.csproj.AssemblyReference.cache
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosFinales\proyectoads22023\Codigo\Modulos\Menu\Modelo\obj\Debug\Modelo_MenuHCv.csproj.CoreCompileInputs.cache
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosFinales\proyectoads22023\Codigo\Modulos\Menu\Modelo\obj\Debug\Modelo_MenuHCV.dll
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosFinales\proyectoads22023\Codigo\Modulos\Menu\Modelo\obj\Debug\Modelo_MenuHCV.pdb
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosFinales\proyectoads22023\Codigo\Modulos\Menu\MenuHCV\Modelo\bin\Debug\Modelo_MenuHCV.dll
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosFinales\proyectoads22023\Codigo\Modulos\Menu\MenuHCV\Modelo\bin\Debug\Modelo_MenuHCV.pdb
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosFinales\proyectoads22023\Codigo\Modulos\Menu\MenuHCV\Modelo\obj\Debug\Modelo_MenuHCV.csproj.AssemblyReference.cache
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosFinales\proyectoads22023\Codigo\Modulos\Menu\MenuHCV\Modelo\obj\Debug\Modelo_MenuHCV.csproj.CoreCompileInputs.cache
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosFinales\proyectoads22023\Codigo\Modulos\Menu\MenuHCV\Modelo\obj\Debug\Modelo_MenuHCV.dll
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosFinales\proyectoads22023\Codigo\Modulos\Menu\MenuHCV\Modelo\obj\Debug\Modelo_MenuHCV.pdb
+C:\Users\DELL\Desktop\labo analisis\Nueva carpeta\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\MenuHCV\Modelo\bin\Debug\Modelo_MenuHCV.dll
+C:\Users\DELL\Desktop\labo analisis\Nueva carpeta\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\MenuHCV\Modelo\bin\Debug\Modelo_MenuHCV.pdb
+C:\Users\DELL\Desktop\labo analisis\Nueva carpeta\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\MenuHCV\Modelo\obj\Debug\Modelo_MenuHCV.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\labo analisis\Nueva carpeta\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\MenuHCV\Modelo\obj\Debug\Modelo_MenuHCV.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\labo analisis\Nueva carpeta\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\MenuHCV\Modelo\obj\Debug\Modelo_MenuHCV.dll
+C:\Users\DELL\Desktop\labo analisis\Nueva carpeta\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\MenuHCV\Modelo\obj\Debug\Modelo_MenuHCV.pdb
+<<<<<<< HEAD
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\MenuHCV\Modelo\bin\Debug\Modelo_MenuHCV.dll
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\MenuHCV\Modelo\bin\Debug\Modelo_MenuHCV.pdb
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\MenuHCV\Modelo\obj\Debug\Modelo_MenuHCV.csproj.AssemblyReference.cache
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\MenuHCV\Modelo\obj\Debug\Modelo_MenuHCV.csproj.CoreCompileInputs.cache
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\MenuHCV\Modelo\obj\Debug\Modelo_MenuHCV.dll
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\MenuHCV\Modelo\obj\Debug\Modelo_MenuHCV.pdb
+=======
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\MenuHCV\Modelo\bin\Debug\Modelo_MenuHCV.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\MenuHCV\Modelo\bin\Debug\Modelo_MenuHCV.pdb
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\MenuHCV\Modelo\obj\Debug\Modelo_MenuHCV.csproj.AssemblyReference.cache
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\MenuHCV\Modelo\obj\Debug\Modelo_MenuHCV.csproj.CoreCompileInputs.cache
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\MenuHCV\Modelo\obj\Debug\Modelo_MenuHCV.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\MenuHCV\Modelo\obj\Debug\Modelo_MenuHCV.pdb
+>>>>>>> f829e4eb4c68fb7d45923043d4726cb7f3fd28fd
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\MenuHCV\Modelo\bin\Debug\Modelo_MenuHCV.dll
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\MenuHCV\Modelo\bin\Debug\Modelo_MenuHCV.pdb
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\MenuHCV\Modelo\obj\Debug\Modelo_MenuHCV.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\MenuHCV\Modelo\obj\Debug\Modelo_MenuHCV.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\MenuHCV\Modelo\obj\Debug\Modelo_MenuHCV.dll
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\MenuHCV\Modelo\obj\Debug\Modelo_MenuHCV.pdb

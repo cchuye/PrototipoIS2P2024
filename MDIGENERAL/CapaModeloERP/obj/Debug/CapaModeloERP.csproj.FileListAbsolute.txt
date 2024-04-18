@@ -1,0 +1,48 @@
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaModeloERP\bin\Debug\CapaModeloERP.dll
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaModeloERP\bin\Debug\CapaModeloERP.pdb
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaModeloERP\obj\Debug\CapaModeloERP.csproj.CoreCompileInputs.cache
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaModeloERP\obj\Debug\CapaModeloERP.dll
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaModeloERP\obj\Debug\CapaModeloERP.pdb
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaModeloERP\bin\Debug\CapaModeloERP.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaModeloERP\bin\Debug\CapaModeloERP.pdb
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaModeloERP\obj\Debug\CapaModeloERP.csproj.AssemblyReference.cache
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaModeloERP\obj\Debug\CapaModeloERP.csproj.CoreCompileInputs.cache
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaModeloERP\obj\Debug\CapaModeloERP.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaModeloERP\obj\Debug\CapaModeloERP.pdb
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaModeloERP\obj\Debug\CapaModeloERP.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\labo analisis\api analisis\Nueva carpeta\Nueva carpeta\Nueva carpeta\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaModeloERP\bin\Debug\CapaModeloERP.dll
+C:\Users\DELL\Desktop\labo analisis\api analisis\Nueva carpeta\Nueva carpeta\Nueva carpeta\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaModeloERP\bin\Debug\CapaModeloERP.pdb
+C:\Users\DELL\Desktop\labo analisis\api analisis\Nueva carpeta\Nueva carpeta\Nueva carpeta\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaModeloERP\obj\Debug\CapaModeloERP.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\labo analisis\api analisis\Nueva carpeta\Nueva carpeta\Nueva carpeta\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaModeloERP\obj\Debug\CapaModeloERP.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\labo analisis\api analisis\Nueva carpeta\Nueva carpeta\Nueva carpeta\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaModeloERP\obj\Debug\CapaModeloERP.dll
+C:\Users\DELL\Desktop\labo analisis\api analisis\Nueva carpeta\Nueva carpeta\Nueva carpeta\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaModeloERP\obj\Debug\CapaModeloERP.pdb
+C:\Users\DELL\Desktop\labo analisis\Nueva carpeta (2)\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaModeloERP\bin\Debug\CapaModeloERP.dll
+C:\Users\DELL\Desktop\labo analisis\Nueva carpeta (2)\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaModeloERP\bin\Debug\CapaModeloERP.pdb
+C:\Users\DELL\Desktop\labo analisis\Nueva carpeta (2)\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaModeloERP\obj\Debug\CapaModeloERP.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\labo analisis\Nueva carpeta (2)\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaModeloERP\obj\Debug\CapaModeloERP.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\labo analisis\Nueva carpeta (2)\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaModeloERP\obj\Debug\CapaModeloERP.dll
+C:\Users\DELL\Desktop\labo analisis\Nueva carpeta (2)\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaModeloERP\obj\Debug\CapaModeloERP.pdb
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaModeloERP\bin\Debug\CapaModeloERP.dll
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaModeloERP\bin\Debug\CapaModeloERP.pdb
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaModeloERP\obj\Debug\CapaModeloERP.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaModeloERP\obj\Debug\CapaModeloERP.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaModeloERP\obj\Debug\CapaModeloERP.dll
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaModeloERP\obj\Debug\CapaModeloERP.pdb
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaModeloERP\bin\Debug\CapaModeloERP.dll
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaModeloERP\bin\Debug\CapaModeloERP.pdb
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaModeloERP\obj\Debug\CapaModeloERP.csproj.AssemblyReference.cache
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaModeloERP\obj\Debug\CapaModeloERP.csproj.CoreCompileInputs.cache
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaModeloERP\obj\Debug\CapaModeloERP.dll
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaModeloERP\obj\Debug\CapaModeloERP.pdb
+C:\Users\oteke\OneDrive\Escritorio\PROYECTO1\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaModeloERP\bin\Debug\CapaModeloERP.dll
+C:\Users\oteke\OneDrive\Escritorio\PROYECTO1\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaModeloERP\bin\Debug\CapaModeloERP.pdb
+C:\Users\oteke\OneDrive\Escritorio\PROYECTO1\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaModeloERP\obj\Debug\CapaModeloERP.csproj.AssemblyReference.cache
+C:\Users\oteke\OneDrive\Escritorio\PROYECTO1\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaModeloERP\obj\Debug\CapaModeloERP.csproj.CoreCompileInputs.cache
+C:\Users\oteke\OneDrive\Escritorio\PROYECTO1\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaModeloERP\obj\Debug\CapaModeloERP.dll
+C:\Users\oteke\OneDrive\Escritorio\PROYECTO1\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaModeloERP\obj\Debug\CapaModeloERP.pdb
+C:\Users\DELL\Desktop\labo analisis\holaaaaaa\Nueva carpeta (5)\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaModeloERP\bin\Debug\CapaModeloERP.dll
+C:\Users\DELL\Desktop\labo analisis\holaaaaaa\Nueva carpeta (5)\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaModeloERP\bin\Debug\CapaModeloERP.pdb
+C:\Users\DELL\Desktop\labo analisis\holaaaaaa\Nueva carpeta (5)\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaModeloERP\obj\Debug\CapaModeloERP.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\labo analisis\holaaaaaa\Nueva carpeta (5)\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaModeloERP\obj\Debug\CapaModeloERP.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\labo analisis\holaaaaaa\Nueva carpeta (5)\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaModeloERP\obj\Debug\CapaModeloERP.dll
+C:\Users\DELL\Desktop\labo analisis\holaaaaaa\Nueva carpeta (5)\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaModeloERP\obj\Debug\CapaModeloERP.pdb

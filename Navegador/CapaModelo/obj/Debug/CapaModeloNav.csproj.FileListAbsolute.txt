@@ -1,0 +1,12 @@
+C:\Users\olste\Desktop\Navegador\Nav\Codigo\Componentes\Navegador\CapaModelo\bin\Debug\CapaModeloNav.dll
+C:\Users\olste\Desktop\Navegador\Nav\Codigo\Componentes\Navegador\CapaModelo\bin\Debug\CapaModeloNav.pdb
+C:\Users\olste\Desktop\Navegador\Nav\Codigo\Componentes\Navegador\CapaModelo\obj\Debug\CapaModeloNav.csproj.AssemblyReference.cache
+C:\Users\olste\Desktop\Navegador\Nav\Codigo\Componentes\Navegador\CapaModelo\obj\Debug\CapaModeloNav.csproj.CoreCompileInputs.cache
+C:\Users\olste\Desktop\Navegador\Nav\Codigo\Componentes\Navegador\CapaModelo\obj\Debug\CapaModeloNav.dll
+C:\Users\olste\Desktop\Navegador\Nav\Codigo\Componentes\Navegador\CapaModelo\obj\Debug\CapaModeloNav.pdb
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Componentes\Navegador\CapaModelo\bin\Debug\CapaModeloNav.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Componentes\Navegador\CapaModelo\bin\Debug\CapaModeloNav.pdb
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Componentes\Navegador\CapaModelo\obj\Debug\CapaModeloNav.csproj.AssemblyReference.cache
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Componentes\Navegador\CapaModelo\obj\Debug\CapaModeloNav.csproj.CoreCompileInputs.cache
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Componentes\Navegador\CapaModelo\obj\Debug\CapaModeloNav.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Componentes\Navegador\CapaModelo\obj\Debug\CapaModeloNav.pdb

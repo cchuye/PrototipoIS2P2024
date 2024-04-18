@@ -1,0 +1,12 @@
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosdeReferencia\Prototipos\proyectois2k23\Codigo\Componentes\Seguridad\Seguridad\Modelo\bin\Debug\Modelo_Seguridad.dll
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosdeReferencia\Prototipos\proyectois2k23\Codigo\Componentes\Seguridad\Seguridad\Modelo\bin\Debug\Modelo_Seguridad.pdb
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosdeReferencia\Prototipos\proyectois2k23\Codigo\Componentes\Seguridad\Seguridad\Modelo\obj\Debug\Modelo_Seguridad.csproj.AssemblyReference.cache
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosdeReferencia\Prototipos\proyectois2k23\Codigo\Componentes\Seguridad\Seguridad\Modelo\obj\Debug\Modelo_Seguridad.csproj.CoreCompileInputs.cache
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosdeReferencia\Prototipos\proyectois2k23\Codigo\Componentes\Seguridad\Seguridad\Modelo\obj\Debug\Modelo_Seguridad.dll
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosdeReferencia\Prototipos\proyectois2k23\Codigo\Componentes\Seguridad\Seguridad\Modelo\obj\Debug\Modelo_Seguridad.pdb
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosFinales\proyectoads22023\Codigo\Modulos\Menu\Modelo\bin\Debug\Modelo_Seguridad.dll
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosFinales\proyectoads22023\Codigo\Modulos\Menu\Modelo\bin\Debug\Modelo_Seguridad.pdb
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosFinales\proyectoads22023\Codigo\Modulos\Menu\Modelo\obj\Debug\Modelo_Seguridad.csproj.AssemblyReference.cache
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosFinales\proyectoads22023\Codigo\Modulos\Menu\Modelo\obj\Debug\Modelo_Seguridad.csproj.CoreCompileInputs.cache
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosFinales\proyectoads22023\Codigo\Modulos\Menu\Modelo\obj\Debug\Modelo_Seguridad.dll
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosFinales\proyectoads22023\Codigo\Modulos\Menu\Modelo\obj\Debug\Modelo_Seguridad.pdb

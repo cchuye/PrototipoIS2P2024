@@ -1,0 +1,704 @@
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosdeReferencia\Prototipos\proyectois2k23\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\Ejecucion.exe.config
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosdeReferencia\Prototipos\proyectois2k23\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\Ejecucion.exe
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosdeReferencia\Prototipos\proyectois2k23\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\Ejecucion.pdb
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosdeReferencia\Prototipos\proyectois2k23\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\Vista_Seguridad.dll
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosdeReferencia\Prototipos\proyectois2k23\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\Seguridad_Controlador.dll
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosdeReferencia\Prototipos\proyectois2k23\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\NavegadorVista.dll
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosdeReferencia\Prototipos\proyectois2k23\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\Modelo_Seguridad.dll
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosdeReferencia\Prototipos\proyectois2k23\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\NavegadorControlador.dll
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosdeReferencia\Prototipos\proyectois2k23\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosdeReferencia\Prototipos\proyectois2k23\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\Capa_VistaConsultas.dll
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosdeReferencia\Prototipos\proyectois2k23\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\NavegadorModelo.dll
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosdeReferencia\Prototipos\proyectois2k23\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\CapaVistaReporteria.dll
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosdeReferencia\Prototipos\proyectois2k23\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\Capa_ControladorConsultas.dll
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosdeReferencia\Prototipos\proyectois2k23\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\CapaControladorReporteria.dll
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosdeReferencia\Prototipos\proyectois2k23\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosdeReferencia\Prototipos\proyectois2k23\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosdeReferencia\Prototipos\proyectois2k23\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\Capa_Modelo.dll
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosdeReferencia\Prototipos\proyectois2k23\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\CapaModeloReporteria.dll
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosdeReferencia\Prototipos\proyectois2k23\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosdeReferencia\Prototipos\proyectois2k23\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosdeReferencia\Prototipos\proyectois2k23\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosdeReferencia\Prototipos\proyectois2k23\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosdeReferencia\Prototipos\proyectois2k23\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosdeReferencia\Prototipos\proyectois2k23\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosdeReferencia\Prototipos\proyectois2k23\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosdeReferencia\Prototipos\proyectois2k23\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosdeReferencia\Prototipos\proyectois2k23\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosdeReferencia\Prototipos\proyectois2k23\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosdeReferencia\Prototipos\proyectois2k23\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosdeReferencia\Prototipos\proyectois2k23\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosdeReferencia\Prototipos\proyectois2k23\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosdeReferencia\Prototipos\proyectois2k23\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosdeReferencia\Prototipos\proyectois2k23\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosdeReferencia\Prototipos\proyectois2k23\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosdeReferencia\Prototipos\proyectois2k23\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\stdole.dll
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosdeReferencia\Prototipos\proyectois2k23\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\Vista_Seguridad.pdb
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosdeReferencia\Prototipos\proyectois2k23\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\Seguridad_Controlador.pdb
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosdeReferencia\Prototipos\proyectois2k23\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\NavegadorVista.pdb
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosdeReferencia\Prototipos\proyectois2k23\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\Modelo_Seguridad.pdb
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosdeReferencia\Prototipos\proyectois2k23\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\NavegadorControlador.pdb
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosdeReferencia\Prototipos\proyectois2k23\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\Capa_VistaConsultas.pdb
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosdeReferencia\Prototipos\proyectois2k23\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\NavegadorModelo.pdb
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosdeReferencia\Prototipos\proyectois2k23\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\CapaVistaReporteria.pdb
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosdeReferencia\Prototipos\proyectois2k23\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\CapaVistaReporteria.dll.config
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosdeReferencia\Prototipos\proyectois2k23\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\Capa_ControladorConsultas.pdb
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosdeReferencia\Prototipos\proyectois2k23\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\CapaControladorReporteria.pdb
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosdeReferencia\Prototipos\proyectois2k23\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\Capa_Modelo.pdb
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosdeReferencia\Prototipos\proyectois2k23\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\CapaModeloReporteria.pdb
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosdeReferencia\Prototipos\proyectois2k23\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\obj\Debug\Ejecucion.csproj.AssemblyReference.cache
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosdeReferencia\Prototipos\proyectois2k23\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\obj\Debug\Ejecucion.Properties.Resources.resources
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosdeReferencia\Prototipos\proyectois2k23\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\obj\Debug\Ejecucion.csproj.GenerateResource.cache
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosdeReferencia\Prototipos\proyectois2k23\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\obj\Debug\Ejecucion.csproj.CoreCompileInputs.cache
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosdeReferencia\Prototipos\proyectois2k23\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\obj\Debug\Ejecucion.csproj.CopyComplete
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosdeReferencia\Prototipos\proyectois2k23\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\obj\Debug\Ejecucion.exe
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosdeReferencia\Prototipos\proyectois2k23\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\obj\Debug\Ejecucion.pdb
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosdeReferencia\Prototipos\proyectois2k23\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\Vista_PrototipoMenu.dll
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosdeReferencia\Prototipos\proyectois2k23\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\Vista_PrototipoMenu.pdb
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosdeReferencia\Prototipos\proyectois2k23\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\Vista_InventariosMenu.dll
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosdeReferencia\Prototipos\proyectois2k23\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\Vista_InventariosMenu.pdb
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosdeReferencia\Prototipos\proyectois2k23\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\Vista_VentasCxcMenu.dll
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosdeReferencia\Prototipos\proyectois2k23\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\Vista_ComprasCxpMenu.dll
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosdeReferencia\Prototipos\proyectois2k23\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\Vista_BancosMenu.dll
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosdeReferencia\Prototipos\proyectois2k23\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\Vista_NominasMenu.dll
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosdeReferencia\Prototipos\proyectois2k23\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\Vista_HoteleriaMenu.dll
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosdeReferencia\Prototipos\proyectois2k23\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\Vista_VentasCxcMenu.pdb
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosdeReferencia\Prototipos\proyectois2k23\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\Vista_ComprasCxpMenu.pdb
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosdeReferencia\Prototipos\proyectois2k23\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\Vista_BancosMenu.pdb
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosdeReferencia\Prototipos\proyectois2k23\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\Vista_NominasMenu.pdb
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosdeReferencia\Prototipos\proyectois2k23\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\Vista_HoteleriaMenu.pdb
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosFinales\proyectoads22023\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Ejecucion.exe.config
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosFinales\proyectoads22023\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Ejecucion.exe
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosFinales\proyectoads22023\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Ejecucion.pdb
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosFinales\proyectoads22023\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Vista_MenuHCV.dll
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosFinales\proyectoads22023\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Seguridad_Controlador.dll
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosFinales\proyectoads22023\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Vista_Seguridad.dll
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosFinales\proyectoads22023\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Vista_PrototipoMenu.dll
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosFinales\proyectoads22023\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Vista_MenuHCV.pdb
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosFinales\proyectoads22023\Codigo\Modulos\Menu\Ejecucion\Ejecucion\obj\Debug\Ejecucion.csproj.AssemblyReference.cache
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosFinales\proyectoads22023\Codigo\Modulos\Menu\Ejecucion\Ejecucion\obj\Debug\Ejecucion.Properties.Resources.resources
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosFinales\proyectoads22023\Codigo\Modulos\Menu\Ejecucion\Ejecucion\obj\Debug\Ejecucion.csproj.GenerateResource.cache
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosFinales\proyectoads22023\Codigo\Modulos\Menu\Ejecucion\Ejecucion\obj\Debug\Ejecucion.csproj.CoreCompileInputs.cache
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosFinales\proyectoads22023\Codigo\Modulos\Menu\Ejecucion\Ejecucion\obj\Debug\Ejecucion.csproj.CopyComplete
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosFinales\proyectoads22023\Codigo\Modulos\Menu\Ejecucion\Ejecucion\obj\Debug\Ejecucion.exe
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosFinales\proyectoads22023\Codigo\Modulos\Menu\Ejecucion\Ejecucion\obj\Debug\Ejecucion.pdb
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosFinales\proyectoads22023\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Modelo_Seguridad.dll
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosFinales\proyectoads22023\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\NavegadorVista.dll
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosFinales\proyectoads22023\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\NavegadorControlador.dll
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosFinales\proyectoads22023\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Capa_VistaConsultas.dll
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosFinales\proyectoads22023\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\NavegadorModelo.dll
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosFinales\proyectoads22023\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CapaVistaReporteria.dll
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosFinales\proyectoads22023\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Capa_ControladorConsultas.dll
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosFinales\proyectoads22023\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CapaControladorReporteria.dll
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosFinales\proyectoads22023\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosFinales\proyectoads22023\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosFinales\proyectoads22023\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Capa_Modelo.dll
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosFinales\proyectoads22023\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CapaModeloReporteria.dll
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosFinales\proyectoads22023\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosFinales\proyectoads22023\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosFinales\proyectoads22023\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosFinales\proyectoads22023\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosFinales\proyectoads22023\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosFinales\proyectoads22023\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosFinales\proyectoads22023\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosFinales\proyectoads22023\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosFinales\proyectoads22023\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosFinales\proyectoads22023\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosFinales\proyectoads22023\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosFinales\proyectoads22023\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosFinales\proyectoads22023\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosFinales\proyectoads22023\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosFinales\proyectoads22023\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosFinales\proyectoads22023\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosFinales\proyectoads22023\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\stdole.dll
+C:\Users\Soporte\Documents\Profesional\Umg\Didactica2k23\ProyectosFinales\proyectoads22023\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Usuario\Documents\Ingenieria Software\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Ejecucion.exe.config
+C:\Users\Usuario\Documents\Ingenieria Software\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Ejecucion.exe
+C:\Users\Usuario\Documents\Ingenieria Software\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Ejecucion.pdb
+C:\Users\Usuario\Documents\Ingenieria Software\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Vista_MenuHCV.dll
+C:\Users\Usuario\Documents\Ingenieria Software\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Seguridad_Controlador.dll
+C:\Users\Usuario\Documents\Ingenieria Software\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Vista_Seguridad.dll
+C:\Users\Usuario\Documents\Ingenieria Software\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Modelo_Seguridad.dll
+C:\Users\Usuario\Documents\Ingenieria Software\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\NavegadorVista.dll
+C:\Users\Usuario\Documents\Ingenieria Software\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Vista_PrototipoMenu.dll
+C:\Users\Usuario\Documents\Ingenieria Software\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\NavegadorControlador.dll
+C:\Users\Usuario\Documents\Ingenieria Software\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Usuario\Documents\Ingenieria Software\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Capa_VistaConsultas.dll
+C:\Users\Usuario\Documents\Ingenieria Software\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\NavegadorModelo.dll
+C:\Users\Usuario\Documents\Ingenieria Software\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CapaVistaReporteria.dll
+C:\Users\Usuario\Documents\Ingenieria Software\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Capa_ControladorConsultas.dll
+C:\Users\Usuario\Documents\Ingenieria Software\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CapaControladorReporteria.dll
+C:\Users\Usuario\Documents\Ingenieria Software\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Usuario\Documents\Ingenieria Software\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Usuario\Documents\Ingenieria Software\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Capa_Modelo.dll
+C:\Users\Usuario\Documents\Ingenieria Software\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CapaModeloReporteria.dll
+C:\Users\Usuario\Documents\Ingenieria Software\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Usuario\Documents\Ingenieria Software\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Usuario\Documents\Ingenieria Software\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Usuario\Documents\Ingenieria Software\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Usuario\Documents\Ingenieria Software\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Usuario\Documents\Ingenieria Software\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Usuario\Documents\Ingenieria Software\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Usuario\Documents\Ingenieria Software\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Usuario\Documents\Ingenieria Software\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Usuario\Documents\Ingenieria Software\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Usuario\Documents\Ingenieria Software\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Usuario\Documents\Ingenieria Software\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Usuario\Documents\Ingenieria Software\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Usuario\Documents\Ingenieria Software\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Usuario\Documents\Ingenieria Software\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Usuario\Documents\Ingenieria Software\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Usuario\Documents\Ingenieria Software\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\stdole.dll
+C:\Users\Usuario\Documents\Ingenieria Software\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Vista_MenuHCV.pdb
+C:\Users\Usuario\Documents\Ingenieria Software\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\obj\Debug\Ejecucion.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\Ingenieria Software\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\obj\Debug\Ejecucion.Properties.Resources.resources
+C:\Users\Usuario\Documents\Ingenieria Software\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\obj\Debug\Ejecucion.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\Ingenieria Software\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\obj\Debug\Ejecucion.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Ingenieria Software\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\obj\Debug\Ejecucion.csproj.CopyComplete
+C:\Users\Usuario\Documents\Ingenieria Software\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\obj\Debug\Ejecucion.exe
+C:\Users\Usuario\Documents\Ingenieria Software\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\obj\Debug\Ejecucion.pdb
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Ejecucion.exe.config
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Ejecucion.exe
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Ejecucion.pdb
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Vista_MenuHCV.dll
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Seguridad_Controlador.dll
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Vista_Seguridad.dll
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Modelo_Seguridad.dll
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\NavegadorVista.dll
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Vista_PrototipoMenu.dll
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\NavegadorControlador.dll
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Capa_VistaConsultas.dll
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\NavegadorModelo.dll
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CapaVistaReporteria.dll
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Capa_ControladorConsultas.dll
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CapaControladorReporteria.dll
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Capa_Modelo.dll
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CapaModeloReporteria.dll
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\stdole.dll
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Vista_MenuHCV.pdb
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\obj\Debug\Ejecucion.csproj.AssemblyReference.cache
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\obj\Debug\Ejecucion.Properties.Resources.resources
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\obj\Debug\Ejecucion.csproj.GenerateResource.cache
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\obj\Debug\Ejecucion.csproj.CoreCompileInputs.cache
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\obj\Debug\Ejecucion.csproj.CopyComplete
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\obj\Debug\Ejecucion.exe
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\obj\Debug\Ejecucion.pdb
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Controlador_PrototipoMenu.dll
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CapaVistaNav.dll
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Modelo_PrototipoMenu.dll
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CapaControladorNav.dll
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CapaModeloNav.dll
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Vista_PrototipoMenu.pdb
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\NavegadorVista.pdb
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Controlador_PrototipoMenu.pdb
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\NavegadorControlador.pdb
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Modelo_PrototipoMenu.pdb
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\NavegadorModelo.pdb
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CapaVistaReporteria.pdb
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CapaVistaReporteria.dll.config
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CapaModeloNav.pdb
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CapaControladorReporteria.pdb
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CapaModeloReporteria.pdb
+C:\Users\Usuario\Documents\Ingenieria de Software\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Ejecucion.exe.config
+C:\Users\Usuario\Documents\Ingenieria de Software\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Ejecucion.exe
+C:\Users\Usuario\Documents\Ingenieria de Software\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Ejecucion.pdb
+C:\Users\Usuario\Documents\Ingenieria de Software\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Vista_MenuHCV.dll
+C:\Users\Usuario\Documents\Ingenieria de Software\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Seguridad_Controlador.dll
+C:\Users\Usuario\Documents\Ingenieria de Software\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Vista_Seguridad.dll
+C:\Users\Usuario\Documents\Ingenieria de Software\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Vista_PrototipoMenu.dll
+C:\Users\Usuario\Documents\Ingenieria de Software\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Modelo_Seguridad.dll
+C:\Users\Usuario\Documents\Ingenieria de Software\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\NavegadorVista.dll
+C:\Users\Usuario\Documents\Ingenieria de Software\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Controlador_PrototipoMenu.dll
+C:\Users\Usuario\Documents\Ingenieria de Software\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CapaVistaNav.dll
+C:\Users\Usuario\Documents\Ingenieria de Software\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\NavegadorControlador.dll
+C:\Users\Usuario\Documents\Ingenieria de Software\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Usuario\Documents\Ingenieria de Software\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Capa_VistaConsultas.dll
+C:\Users\Usuario\Documents\Ingenieria de Software\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Modelo_PrototipoMenu.dll
+C:\Users\Usuario\Documents\Ingenieria de Software\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CapaControladorNav.dll
+C:\Users\Usuario\Documents\Ingenieria de Software\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\NavegadorModelo.dll
+C:\Users\Usuario\Documents\Ingenieria de Software\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CapaVistaReporteria.dll
+C:\Users\Usuario\Documents\Ingenieria de Software\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Capa_ControladorConsultas.dll
+C:\Users\Usuario\Documents\Ingenieria de Software\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CapaModeloNav.dll
+C:\Users\Usuario\Documents\Ingenieria de Software\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CapaControladorReporteria.dll
+C:\Users\Usuario\Documents\Ingenieria de Software\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Usuario\Documents\Ingenieria de Software\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Usuario\Documents\Ingenieria de Software\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Capa_Modelo.dll
+C:\Users\Usuario\Documents\Ingenieria de Software\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CapaModeloReporteria.dll
+C:\Users\Usuario\Documents\Ingenieria de Software\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Usuario\Documents\Ingenieria de Software\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Usuario\Documents\Ingenieria de Software\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Usuario\Documents\Ingenieria de Software\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Usuario\Documents\Ingenieria de Software\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Usuario\Documents\Ingenieria de Software\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Usuario\Documents\Ingenieria de Software\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Usuario\Documents\Ingenieria de Software\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Usuario\Documents\Ingenieria de Software\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Usuario\Documents\Ingenieria de Software\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Usuario\Documents\Ingenieria de Software\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Usuario\Documents\Ingenieria de Software\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Usuario\Documents\Ingenieria de Software\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Usuario\Documents\Ingenieria de Software\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Usuario\Documents\Ingenieria de Software\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Usuario\Documents\Ingenieria de Software\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Usuario\Documents\Ingenieria de Software\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\stdole.dll
+C:\Users\Usuario\Documents\Ingenieria de Software\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Vista_MenuHCV.pdb
+C:\Users\Usuario\Documents\Ingenieria de Software\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Vista_PrototipoMenu.pdb
+C:\Users\Usuario\Documents\Ingenieria de Software\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\NavegadorVista.pdb
+C:\Users\Usuario\Documents\Ingenieria de Software\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Controlador_PrototipoMenu.pdb
+C:\Users\Usuario\Documents\Ingenieria de Software\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CapaVistaNav.pdb
+C:\Users\Usuario\Documents\Ingenieria de Software\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\NavegadorControlador.pdb
+C:\Users\Usuario\Documents\Ingenieria de Software\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Modelo_PrototipoMenu.pdb
+C:\Users\Usuario\Documents\Ingenieria de Software\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CapaControladorNav.pdb
+C:\Users\Usuario\Documents\Ingenieria de Software\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\NavegadorModelo.pdb
+C:\Users\Usuario\Documents\Ingenieria de Software\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CapaVistaReporteria.pdb
+C:\Users\Usuario\Documents\Ingenieria de Software\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CapaVistaReporteria.dll.config
+C:\Users\Usuario\Documents\Ingenieria de Software\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CapaModeloNav.pdb
+C:\Users\Usuario\Documents\Ingenieria de Software\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CapaControladorReporteria.pdb
+C:\Users\Usuario\Documents\Ingenieria de Software\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CapaModeloReporteria.pdb
+C:\Users\Usuario\Documents\Ingenieria de Software\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\obj\Debug\Ejecucion.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\Ingenieria de Software\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\obj\Debug\Ejecucion.Properties.Resources.resources
+C:\Users\Usuario\Documents\Ingenieria de Software\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\obj\Debug\Ejecucion.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\Ingenieria de Software\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\obj\Debug\Ejecucion.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Ingenieria de Software\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\obj\Debug\Ejecucion.csproj.CopyComplete
+C:\Users\Usuario\Documents\Ingenieria de Software\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\obj\Debug\Ejecucion.exe
+C:\Users\Usuario\Documents\Ingenieria de Software\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\obj\Debug\Ejecucion.pdb
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Ejecucion.exe.config
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Ejecucion.exe
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Ejecucion.pdb
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Vista_MenuHCV.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Seguridad_Controlador.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Vista_Seguridad.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Vista_PrototipoMenu.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Modelo_Seguridad.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\NavegadorVista.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Controlador_PrototipoMenu.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CapaVistaNav.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\NavegadorControlador.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Capa_VistaConsultas.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Modelo_PrototipoMenu.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CapaControladorNav.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\NavegadorModelo.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CapaVistaReporteria.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Capa_ControladorConsultas.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CapaModeloNav.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CapaControladorReporteria.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Capa_Modelo.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CapaModeloReporteria.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\stdole.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Vista_MenuHCV.pdb
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Vista_PrototipoMenu.pdb
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\NavegadorVista.pdb
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Controlador_PrototipoMenu.pdb
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CapaVistaNav.pdb
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\NavegadorControlador.pdb
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Modelo_PrototipoMenu.pdb
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CapaControladorNav.pdb
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\NavegadorModelo.pdb
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CapaVistaReporteria.pdb
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CapaVistaReporteria.dll.config
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CapaModeloNav.pdb
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CapaControladorReporteria.pdb
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CapaModeloReporteria.pdb
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\obj\Debug\Ejecucion.csproj.AssemblyReference.cache
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\obj\Debug\Ejecucion.Properties.Resources.resources
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\obj\Debug\Ejecucion.csproj.GenerateResource.cache
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\obj\Debug\Ejecucion.csproj.CoreCompileInputs.cache
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\obj\Debug\Ejecucion.csproj.CopyComplete
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\obj\Debug\Ejecucion.exe
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\obj\Debug\Ejecucion.pdb
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CapaVistaERP.dll
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CapaVistaERP.pdb
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Ejecucion.exe.config
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Ejecucion.exe
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Ejecucion.pdb
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Vista_MenuHCV.dll
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Seguridad_Controlador.dll
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Vista_Seguridad.dll
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CapaVistaERP.dll
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Modelo_Seguridad.dll
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\NavegadorVista.dll
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Vista_PrototipoMenu.dll
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\NavegadorControlador.dll
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Capa_VistaConsultas.dll
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Controlador_PrototipoMenu.dll
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CapaVistaNav.dll
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\NavegadorModelo.dll
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CapaVistaReporteria.dll
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Capa_ControladorConsultas.dll
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Modelo_PrototipoMenu.dll
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CapaControladorNav.dll
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CapaControladorReporteria.dll
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Capa_Modelo.dll
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CapaModeloNav.dll
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CapaModeloReporteria.dll
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\stdole.dll
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Vista_MenuHCV.pdb
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CapaVistaERP.pdb
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\NavegadorVista.pdb
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Vista_PrototipoMenu.pdb
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\NavegadorControlador.pdb
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Controlador_PrototipoMenu.pdb
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\NavegadorModelo.pdb
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CapaVistaReporteria.pdb
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CapaVistaReporteria.dll.config
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Modelo_PrototipoMenu.pdb
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CapaControladorReporteria.pdb
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CapaModeloNav.pdb
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CapaModeloReporteria.pdb
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\obj\Debug\Ejecucion.csproj.AssemblyReference.cache
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\obj\Debug\Ejecucion.Properties.Resources.resources
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\obj\Debug\Ejecucion.csproj.GenerateResource.cache
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\obj\Debug\Ejecucion.csproj.CoreCompileInputs.cache
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\obj\Debug\Ejecucion.csproj.CopyComplete
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\obj\Debug\Ejecucion.exe
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\obj\Debug\Ejecucion.pdb
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Ejecucion.exe.config
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Ejecucion.exe
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Ejecucion.pdb
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Vista_MenuHCV.dll
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Seguridad_Controlador.dll
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Vista_Seguridad.dll
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CapaVistaERP.dll
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Modelo_Seguridad.dll
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\NavegadorVista.dll
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Vista_PrototipoMenu.dll
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CapaVistaNav.dll
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\NavegadorControlador.dll
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Capa_VistaConsultas.dll
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Controlador_PrototipoMenu.dll
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CapaControladorNav.dll
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\NavegadorModelo.dll
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CapaVistaReporteria.dll
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Capa_ControladorConsultas.dll
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Modelo_PrototipoMenu.dll
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CapaModeloNav.dll
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CapaControladorReporteria.dll
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Capa_Modelo.dll
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CapaModeloReporteria.dll
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\stdole.dll
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Vista_MenuHCV.pdb
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CapaVistaERP.pdb
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\NavegadorVista.pdb
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Vista_PrototipoMenu.pdb
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CapaVistaNav.pdb
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\NavegadorControlador.pdb
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Controlador_PrototipoMenu.pdb
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CapaControladorNav.pdb
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\NavegadorModelo.pdb
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CapaVistaReporteria.pdb
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CapaVistaReporteria.dll.config
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Modelo_PrototipoMenu.pdb
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CapaModeloNav.pdb
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CapaControladorReporteria.pdb
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CapaModeloReporteria.pdb
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\obj\Debug\Ejecucion.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\obj\Debug\Ejecucion.Properties.Resources.resources
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\obj\Debug\Ejecucion.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\obj\Debug\Ejecucion.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\obj\Debug\Ejecucion.csproj.Up2Date
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\obj\Debug\Ejecucion.exe
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\obj\Debug\Ejecucion.pdb
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CapaControladorERP.dll
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CapaModeloERP.dll
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CapaControladorERP.pdb
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CapaModeloERP.pdb
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CapaControladorERP.dll
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CapaModeloERP.dll
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CapaControladorERP.pdb
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CapaModeloERP.pdb
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CapaVistaERP.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CapaControladorERP.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CapaModeloERP.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CapaVistaERP.pdb
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CapaControladorERP.pdb
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CapaModeloERP.pdb
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CapaControladorERP.dll
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CapaModeloERP.dll
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CapaControladorERP.pdb
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CapaModeloERP.pdb
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\obj\Debug\Ejecucion.csproj.SuggestedBindingRedirects.cache
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CapaVistaNav.pdb
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CapaControladorNav.pdb
+C:\Users\oteke\OneDrive\Escritorio\PROYECTO1\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Ejecucion.exe.config
+C:\Users\oteke\OneDrive\Escritorio\PROYECTO1\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Ejecucion.exe
+C:\Users\oteke\OneDrive\Escritorio\PROYECTO1\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Ejecucion.pdb
+C:\Users\oteke\OneDrive\Escritorio\PROYECTO1\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Vista_MenuHCV.dll
+C:\Users\oteke\OneDrive\Escritorio\PROYECTO1\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Seguridad_Controlador.dll
+C:\Users\oteke\OneDrive\Escritorio\PROYECTO1\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Vista_Seguridad.dll
+C:\Users\oteke\OneDrive\Escritorio\PROYECTO1\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CapaVistaERP.dll
+C:\Users\oteke\OneDrive\Escritorio\PROYECTO1\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Modelo_Seguridad.dll
+C:\Users\oteke\OneDrive\Escritorio\PROYECTO1\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\NavegadorVista.dll
+C:\Users\oteke\OneDrive\Escritorio\PROYECTO1\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Vista_PrototipoMenu.dll
+C:\Users\oteke\OneDrive\Escritorio\PROYECTO1\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CapaControladorERP.dll
+C:\Users\oteke\OneDrive\Escritorio\PROYECTO1\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CapaVistaNav.dll
+C:\Users\oteke\OneDrive\Escritorio\PROYECTO1\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\NavegadorControlador.dll
+C:\Users\oteke\OneDrive\Escritorio\PROYECTO1\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\oteke\OneDrive\Escritorio\PROYECTO1\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Capa_VistaConsultas.dll
+C:\Users\oteke\OneDrive\Escritorio\PROYECTO1\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Controlador_PrototipoMenu.dll
+C:\Users\oteke\OneDrive\Escritorio\PROYECTO1\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CapaModeloERP.dll
+C:\Users\oteke\OneDrive\Escritorio\PROYECTO1\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CapaControladorNav.dll
+C:\Users\oteke\OneDrive\Escritorio\PROYECTO1\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\NavegadorModelo.dll
+C:\Users\oteke\OneDrive\Escritorio\PROYECTO1\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CapaVistaReporteria.dll
+C:\Users\oteke\OneDrive\Escritorio\PROYECTO1\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Capa_ControladorConsultas.dll
+C:\Users\oteke\OneDrive\Escritorio\PROYECTO1\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Modelo_PrototipoMenu.dll
+C:\Users\oteke\OneDrive\Escritorio\PROYECTO1\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CapaModeloNav.dll
+C:\Users\oteke\OneDrive\Escritorio\PROYECTO1\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CapaControladorReporteria.dll
+C:\Users\oteke\OneDrive\Escritorio\PROYECTO1\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\oteke\OneDrive\Escritorio\PROYECTO1\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\oteke\OneDrive\Escritorio\PROYECTO1\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Capa_Modelo.dll
+C:\Users\oteke\OneDrive\Escritorio\PROYECTO1\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CapaModeloReporteria.dll
+C:\Users\oteke\OneDrive\Escritorio\PROYECTO1\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\oteke\OneDrive\Escritorio\PROYECTO1\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\oteke\OneDrive\Escritorio\PROYECTO1\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\oteke\OneDrive\Escritorio\PROYECTO1\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\oteke\OneDrive\Escritorio\PROYECTO1\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\oteke\OneDrive\Escritorio\PROYECTO1\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\oteke\OneDrive\Escritorio\PROYECTO1\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\oteke\OneDrive\Escritorio\PROYECTO1\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\oteke\OneDrive\Escritorio\PROYECTO1\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\oteke\OneDrive\Escritorio\PROYECTO1\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\oteke\OneDrive\Escritorio\PROYECTO1\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\oteke\OneDrive\Escritorio\PROYECTO1\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\oteke\OneDrive\Escritorio\PROYECTO1\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\oteke\OneDrive\Escritorio\PROYECTO1\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\oteke\OneDrive\Escritorio\PROYECTO1\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\oteke\OneDrive\Escritorio\PROYECTO1\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\oteke\OneDrive\Escritorio\PROYECTO1\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\stdole.dll
+C:\Users\oteke\OneDrive\Escritorio\PROYECTO1\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Vista_MenuHCV.pdb
+C:\Users\oteke\OneDrive\Escritorio\PROYECTO1\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CapaVistaERP.pdb
+C:\Users\oteke\OneDrive\Escritorio\PROYECTO1\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\NavegadorVista.pdb
+C:\Users\oteke\OneDrive\Escritorio\PROYECTO1\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Vista_PrototipoMenu.pdb
+C:\Users\oteke\OneDrive\Escritorio\PROYECTO1\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CapaControladorERP.pdb
+C:\Users\oteke\OneDrive\Escritorio\PROYECTO1\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CapaVistaNav.pdb
+C:\Users\oteke\OneDrive\Escritorio\PROYECTO1\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\NavegadorControlador.pdb
+C:\Users\oteke\OneDrive\Escritorio\PROYECTO1\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Controlador_PrototipoMenu.pdb
+C:\Users\oteke\OneDrive\Escritorio\PROYECTO1\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CapaModeloERP.pdb
+C:\Users\oteke\OneDrive\Escritorio\PROYECTO1\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CapaControladorNav.pdb
+C:\Users\oteke\OneDrive\Escritorio\PROYECTO1\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\NavegadorModelo.pdb
+C:\Users\oteke\OneDrive\Escritorio\PROYECTO1\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CapaVistaReporteria.pdb
+C:\Users\oteke\OneDrive\Escritorio\PROYECTO1\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CapaVistaReporteria.dll.config
+C:\Users\oteke\OneDrive\Escritorio\PROYECTO1\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\Modelo_PrototipoMenu.pdb
+C:\Users\oteke\OneDrive\Escritorio\PROYECTO1\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CapaModeloNav.pdb
+C:\Users\oteke\OneDrive\Escritorio\PROYECTO1\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CapaControladorReporteria.pdb
+C:\Users\oteke\OneDrive\Escritorio\PROYECTO1\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\bin\Debug\CapaModeloReporteria.pdb
+C:\Users\oteke\OneDrive\Escritorio\PROYECTO1\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\obj\Debug\Ejecucion.csproj.AssemblyReference.cache
+C:\Users\oteke\OneDrive\Escritorio\PROYECTO1\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\obj\Debug\Ejecucion.Properties.Resources.resources
+C:\Users\oteke\OneDrive\Escritorio\PROYECTO1\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\obj\Debug\Ejecucion.csproj.GenerateResource.cache
+C:\Users\oteke\OneDrive\Escritorio\PROYECTO1\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\obj\Debug\Ejecucion.csproj.CoreCompileInputs.cache
+C:\Users\oteke\OneDrive\Escritorio\PROYECTO1\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\obj\Debug\Ejecucion.csproj.CopyComplete
+C:\Users\oteke\OneDrive\Escritorio\PROYECTO1\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\obj\Debug\Ejecucion.exe
+C:\Users\oteke\OneDrive\Escritorio\PROYECTO1\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\Menu\Ejecucion\Ejecucion\obj\Debug\Ejecucion.pdb
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Preparación\Menu\Ejecucion\Ejecucion\bin\Debug\Ejecucion.exe.config
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Preparación\Menu\Ejecucion\Ejecucion\bin\Debug\Ejecucion.exe
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Preparación\Menu\Ejecucion\Ejecucion\bin\Debug\Ejecucion.pdb
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Preparación\Menu\Ejecucion\Ejecucion\bin\Debug\Vista_MenuHCV.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Preparación\Menu\Ejecucion\Ejecucion\bin\Debug\Seguridad_Controlador.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Preparación\Menu\Ejecucion\Ejecucion\bin\Debug\Vista_Seguridad.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Preparación\Menu\Ejecucion\Ejecucion\bin\Debug\CapaVistaERP.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Preparación\Menu\Ejecucion\Ejecucion\bin\Debug\Modelo_Seguridad.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Preparación\Menu\Ejecucion\Ejecucion\bin\Debug\NavegadorVista.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Preparación\Menu\Ejecucion\Ejecucion\bin\Debug\Vista_PrototipoMenu.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Preparación\Menu\Ejecucion\Ejecucion\bin\Debug\CapaControladorERP.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Preparación\Menu\Ejecucion\Ejecucion\bin\Debug\CapaVistaNav.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Preparación\Menu\Ejecucion\Ejecucion\bin\Debug\NavegadorControlador.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Preparación\Menu\Ejecucion\Ejecucion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Preparación\Menu\Ejecucion\Ejecucion\bin\Debug\Capa_VistaConsultas.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Preparación\Menu\Ejecucion\Ejecucion\bin\Debug\Controlador_PrototipoMenu.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Preparación\Menu\Ejecucion\Ejecucion\bin\Debug\CapaModeloERP.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Preparación\Menu\Ejecucion\Ejecucion\bin\Debug\CapaControladorNav.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Preparación\Menu\Ejecucion\Ejecucion\bin\Debug\NavegadorModelo.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Preparación\Menu\Ejecucion\Ejecucion\bin\Debug\CapaVistaReporteria.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Preparación\Menu\Ejecucion\Ejecucion\bin\Debug\Capa_ControladorConsultas.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Preparación\Menu\Ejecucion\Ejecucion\bin\Debug\Modelo_PrototipoMenu.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Preparación\Menu\Ejecucion\Ejecucion\bin\Debug\CapaModeloNav.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Preparación\Menu\Ejecucion\Ejecucion\bin\Debug\CapaControladorReporteria.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Preparación\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Preparación\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Preparación\Menu\Ejecucion\Ejecucion\bin\Debug\Capa_Modelo.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Preparación\Menu\Ejecucion\Ejecucion\bin\Debug\CapaModeloReporteria.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Preparación\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Preparación\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Preparación\Menu\Ejecucion\Ejecucion\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Preparación\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Preparación\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Preparación\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Preparación\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Preparación\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Preparación\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Preparación\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Preparación\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Preparación\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Preparación\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Preparación\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Preparación\Menu\Ejecucion\Ejecucion\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Preparación\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Preparación\Menu\Ejecucion\Ejecucion\bin\Debug\stdole.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Preparación\Menu\Ejecucion\Ejecucion\bin\Debug\Vista_MenuHCV.pdb
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Preparación\Menu\Ejecucion\Ejecucion\bin\Debug\CapaVistaERP.pdb
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Preparación\Menu\Ejecucion\Ejecucion\bin\Debug\NavegadorVista.pdb
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Preparación\Menu\Ejecucion\Ejecucion\bin\Debug\Vista_PrototipoMenu.pdb
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Preparación\Menu\Ejecucion\Ejecucion\bin\Debug\CapaControladorERP.pdb
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Preparación\Menu\Ejecucion\Ejecucion\bin\Debug\CapaVistaNav.pdb
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Preparación\Menu\Ejecucion\Ejecucion\bin\Debug\NavegadorControlador.pdb
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Preparación\Menu\Ejecucion\Ejecucion\bin\Debug\Controlador_PrototipoMenu.pdb
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Preparación\Menu\Ejecucion\Ejecucion\bin\Debug\CapaModeloERP.pdb
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Preparación\Menu\Ejecucion\Ejecucion\bin\Debug\CapaControladorNav.pdb
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Preparación\Menu\Ejecucion\Ejecucion\bin\Debug\NavegadorModelo.pdb
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Preparación\Menu\Ejecucion\Ejecucion\bin\Debug\CapaVistaReporteria.pdb
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Preparación\Menu\Ejecucion\Ejecucion\bin\Debug\CapaVistaReporteria.dll.config
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Preparación\Menu\Ejecucion\Ejecucion\bin\Debug\Modelo_PrototipoMenu.pdb
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Preparación\Menu\Ejecucion\Ejecucion\bin\Debug\CapaModeloNav.pdb
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Preparación\Menu\Ejecucion\Ejecucion\bin\Debug\CapaControladorReporteria.pdb
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Preparación\Menu\Ejecucion\Ejecucion\bin\Debug\CapaModeloReporteria.pdb
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Preparación\Menu\Ejecucion\Ejecucion\obj\Debug\Ejecucion.csproj.AssemblyReference.cache
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Preparación\Menu\Ejecucion\Ejecucion\obj\Debug\Ejecucion.Properties.Resources.resources
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Preparación\Menu\Ejecucion\Ejecucion\obj\Debug\Ejecucion.csproj.GenerateResource.cache
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Preparación\Menu\Ejecucion\Ejecucion\obj\Debug\Ejecucion.csproj.CoreCompileInputs.cache
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Preparación\Menu\Ejecucion\Ejecucion\obj\Debug\Ejecucion.csproj.CopyComplete
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Preparación\Menu\Ejecucion\Ejecucion\obj\Debug\Ejecucion.exe
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Preparación\Menu\Ejecucion\Ejecucion\obj\Debug\Ejecucion.pdb
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Examen\PrototipoIS2P2024\Menu\Ejecucion\Ejecucion\bin\Debug\Ejecucion.exe.config
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Examen\PrototipoIS2P2024\Menu\Ejecucion\Ejecucion\bin\Debug\Ejecucion.exe
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Examen\PrototipoIS2P2024\Menu\Ejecucion\Ejecucion\bin\Debug\Ejecucion.pdb
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Examen\PrototipoIS2P2024\Menu\Ejecucion\Ejecucion\bin\Debug\Vista_MenuHCV.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Examen\PrototipoIS2P2024\Menu\Ejecucion\Ejecucion\bin\Debug\Seguridad_Controlador.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Examen\PrototipoIS2P2024\Menu\Ejecucion\Ejecucion\bin\Debug\Vista_Seguridad.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Examen\PrototipoIS2P2024\Menu\Ejecucion\Ejecucion\bin\Debug\CapaVistaERP.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Examen\PrototipoIS2P2024\Menu\Ejecucion\Ejecucion\bin\Debug\Modelo_Seguridad.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Examen\PrototipoIS2P2024\Menu\Ejecucion\Ejecucion\bin\Debug\NavegadorVista.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Examen\PrototipoIS2P2024\Menu\Ejecucion\Ejecucion\bin\Debug\Vista_PrototipoMenu.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Examen\PrototipoIS2P2024\Menu\Ejecucion\Ejecucion\bin\Debug\CapaControladorERP.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Examen\PrototipoIS2P2024\Menu\Ejecucion\Ejecucion\bin\Debug\CapaVistaNav.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Examen\PrototipoIS2P2024\Menu\Ejecucion\Ejecucion\bin\Debug\NavegadorControlador.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Examen\PrototipoIS2P2024\Menu\Ejecucion\Ejecucion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Examen\PrototipoIS2P2024\Menu\Ejecucion\Ejecucion\bin\Debug\Capa_VistaConsultas.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Examen\PrototipoIS2P2024\Menu\Ejecucion\Ejecucion\bin\Debug\Controlador_PrototipoMenu.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Examen\PrototipoIS2P2024\Menu\Ejecucion\Ejecucion\bin\Debug\CapaModeloERP.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Examen\PrototipoIS2P2024\Menu\Ejecucion\Ejecucion\bin\Debug\CapaControladorNav.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Examen\PrototipoIS2P2024\Menu\Ejecucion\Ejecucion\bin\Debug\NavegadorModelo.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Examen\PrototipoIS2P2024\Menu\Ejecucion\Ejecucion\bin\Debug\CapaVistaReporteria.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Examen\PrototipoIS2P2024\Menu\Ejecucion\Ejecucion\bin\Debug\Capa_ControladorConsultas.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Examen\PrototipoIS2P2024\Menu\Ejecucion\Ejecucion\bin\Debug\Modelo_PrototipoMenu.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Examen\PrototipoIS2P2024\Menu\Ejecucion\Ejecucion\bin\Debug\CapaModeloNav.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Examen\PrototipoIS2P2024\Menu\Ejecucion\Ejecucion\bin\Debug\CapaControladorReporteria.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Examen\PrototipoIS2P2024\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Examen\PrototipoIS2P2024\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Examen\PrototipoIS2P2024\Menu\Ejecucion\Ejecucion\bin\Debug\Capa_Modelo.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Examen\PrototipoIS2P2024\Menu\Ejecucion\Ejecucion\bin\Debug\CapaModeloReporteria.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Examen\PrototipoIS2P2024\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Examen\PrototipoIS2P2024\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Examen\PrototipoIS2P2024\Menu\Ejecucion\Ejecucion\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Examen\PrototipoIS2P2024\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Examen\PrototipoIS2P2024\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Examen\PrototipoIS2P2024\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Examen\PrototipoIS2P2024\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Examen\PrototipoIS2P2024\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Examen\PrototipoIS2P2024\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Examen\PrototipoIS2P2024\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Examen\PrototipoIS2P2024\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Examen\PrototipoIS2P2024\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Examen\PrototipoIS2P2024\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Examen\PrototipoIS2P2024\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Examen\PrototipoIS2P2024\Menu\Ejecucion\Ejecucion\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Examen\PrototipoIS2P2024\Menu\Ejecucion\Ejecucion\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Examen\PrototipoIS2P2024\Menu\Ejecucion\Ejecucion\bin\Debug\stdole.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Examen\PrototipoIS2P2024\Menu\Ejecucion\Ejecucion\bin\Debug\Vista_MenuHCV.pdb
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Examen\PrototipoIS2P2024\Menu\Ejecucion\Ejecucion\bin\Debug\CapaVistaERP.pdb
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Examen\PrototipoIS2P2024\Menu\Ejecucion\Ejecucion\bin\Debug\NavegadorVista.pdb
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Examen\PrototipoIS2P2024\Menu\Ejecucion\Ejecucion\bin\Debug\Vista_PrototipoMenu.pdb
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Examen\PrototipoIS2P2024\Menu\Ejecucion\Ejecucion\bin\Debug\CapaControladorERP.pdb
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Examen\PrototipoIS2P2024\Menu\Ejecucion\Ejecucion\bin\Debug\CapaVistaNav.pdb
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Examen\PrototipoIS2P2024\Menu\Ejecucion\Ejecucion\bin\Debug\NavegadorControlador.pdb
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Examen\PrototipoIS2P2024\Menu\Ejecucion\Ejecucion\bin\Debug\Controlador_PrototipoMenu.pdb
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Examen\PrototipoIS2P2024\Menu\Ejecucion\Ejecucion\bin\Debug\CapaModeloERP.pdb
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Examen\PrototipoIS2P2024\Menu\Ejecucion\Ejecucion\bin\Debug\CapaControladorNav.pdb
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Examen\PrototipoIS2P2024\Menu\Ejecucion\Ejecucion\bin\Debug\NavegadorModelo.pdb
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Examen\PrototipoIS2P2024\Menu\Ejecucion\Ejecucion\bin\Debug\CapaVistaReporteria.pdb
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Examen\PrototipoIS2P2024\Menu\Ejecucion\Ejecucion\bin\Debug\CapaVistaReporteria.dll.config
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Examen\PrototipoIS2P2024\Menu\Ejecucion\Ejecucion\bin\Debug\Modelo_PrototipoMenu.pdb
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Examen\PrototipoIS2P2024\Menu\Ejecucion\Ejecucion\bin\Debug\CapaModeloNav.pdb
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Examen\PrototipoIS2P2024\Menu\Ejecucion\Ejecucion\bin\Debug\CapaControladorReporteria.pdb
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Examen\PrototipoIS2P2024\Menu\Ejecucion\Ejecucion\bin\Debug\CapaModeloReporteria.pdb
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Examen\PrototipoIS2P2024\Menu\Ejecucion\Ejecucion\obj\Debug\Ejecucion.csproj.AssemblyReference.cache
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Examen\PrototipoIS2P2024\Menu\Ejecucion\Ejecucion\obj\Debug\Ejecucion.Properties.Resources.resources
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Examen\PrototipoIS2P2024\Menu\Ejecucion\Ejecucion\obj\Debug\Ejecucion.csproj.GenerateResource.cache
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Examen\PrototipoIS2P2024\Menu\Ejecucion\Ejecucion\obj\Debug\Ejecucion.csproj.CoreCompileInputs.cache
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Examen\PrototipoIS2P2024\Menu\Ejecucion\Ejecucion\obj\Debug\Ejecucion.csproj.CopyComplete
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Examen\PrototipoIS2P2024\Menu\Ejecucion\Ejecucion\obj\Debug\Ejecucion.exe
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Examen\PrototipoIS2P2024\Menu\Ejecucion\Ejecucion\obj\Debug\Ejecucion.pdb

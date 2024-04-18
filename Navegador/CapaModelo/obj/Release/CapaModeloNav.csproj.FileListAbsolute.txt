@@ -1,0 +1,16 @@
+C:\Users\olste\Desktop\Navegador\Nav\Codigo\Componentes\Navegador\CapaModelo\bin\Release\CapaModeloNav.dll
+C:\Users\olste\Desktop\Navegador\Nav\Codigo\Componentes\Navegador\CapaModelo\bin\Release\CapaModeloNav.pdb
+C:\Users\olste\Desktop\Navegador\Nav\Codigo\Componentes\Navegador\CapaModelo\obj\Release\CapaModeloNav.csproj.CoreCompileInputs.cache
+C:\Users\olste\Desktop\Navegador\Nav\Codigo\Componentes\Navegador\CapaModelo\obj\Release\CapaModeloNav.dll
+C:\Users\olste\Desktop\Navegador\Nav\Codigo\Componentes\Navegador\CapaModelo\obj\Release\CapaModeloNav.pdb
+C:\Users\olste\Desktop\Navegador\NavegadorCS\CapaModelo\bin\Release\CapaModeloNav.dll
+C:\Users\olste\Desktop\Navegador\NavegadorCS\CapaModelo\bin\Release\CapaModeloNav.pdb
+C:\Users\olste\Desktop\Navegador\NavegadorCS\CapaModelo\obj\Release\CapaModeloNav.csproj.CoreCompileInputs.cache
+C:\Users\olste\Desktop\Navegador\NavegadorCS\CapaModelo\obj\Release\CapaModeloNav.dll
+C:\Users\olste\Desktop\Navegador\NavegadorCS\CapaModelo\obj\Release\CapaModeloNav.pdb
+C:\Users\olste\Desktop\OLIVER 2019\Tareas\Noveno Semestre\sources\ISP12k24\Equipo2\Codigo\Componentes\Navegador\CapaModelo\bin\Release\CapaModeloNav.dll
+C:\Users\olste\Desktop\OLIVER 2019\Tareas\Noveno Semestre\sources\ISP12k24\Equipo2\Codigo\Componentes\Navegador\CapaModelo\bin\Release\CapaModeloNav.pdb
+C:\Users\olste\Desktop\OLIVER 2019\Tareas\Noveno Semestre\sources\ISP12k24\Equipo2\Codigo\Componentes\Navegador\CapaModelo\obj\Release\CapaModeloNav.csproj.AssemblyReference.cache
+C:\Users\olste\Desktop\OLIVER 2019\Tareas\Noveno Semestre\sources\ISP12k24\Equipo2\Codigo\Componentes\Navegador\CapaModelo\obj\Release\CapaModeloNav.csproj.CoreCompileInputs.cache
+C:\Users\olste\Desktop\OLIVER 2019\Tareas\Noveno Semestre\sources\ISP12k24\Equipo2\Codigo\Componentes\Navegador\CapaModelo\obj\Release\CapaModeloNav.dll
+C:\Users\olste\Desktop\OLIVER 2019\Tareas\Noveno Semestre\sources\ISP12k24\Equipo2\Codigo\Componentes\Navegador\CapaModelo\obj\Release\CapaModeloNav.pdb

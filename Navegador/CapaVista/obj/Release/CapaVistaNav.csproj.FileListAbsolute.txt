@@ -1,0 +1,101 @@
+C:\Users\olste\Desktop\Navegador\Nav\Codigo\Componentes\Navegador\CapaVista\bin\Release\CapaVistaNav.dll
+C:\Users\olste\Desktop\Navegador\Nav\Codigo\Componentes\Navegador\CapaVista\bin\Release\CapaVistaNav.pdb
+C:\Users\olste\Desktop\Navegador\Nav\Codigo\Componentes\Navegador\CapaVista\bin\Release\CapaControladorNav.dll
+C:\Users\olste\Desktop\Navegador\Nav\Codigo\Componentes\Navegador\CapaVista\bin\Release\Seguridad_Controlador.dll
+C:\Users\olste\Desktop\Navegador\Nav\Codigo\Componentes\Navegador\CapaVista\bin\Release\CapaModeloNav.dll
+C:\Users\olste\Desktop\Navegador\Nav\Codigo\Componentes\Navegador\CapaVista\bin\Release\Modelo_Seguridad.dll
+C:\Users\olste\Desktop\Navegador\Nav\Codigo\Componentes\Navegador\CapaVista\bin\Release\CapaControladorNav.pdb
+C:\Users\olste\Desktop\Navegador\Nav\Codigo\Componentes\Navegador\CapaVista\bin\Release\CapaModeloNav.pdb
+C:\Users\olste\Desktop\Navegador\Nav\Codigo\Componentes\Navegador\CapaVista\obj\Release\CapaVistaNav.csproj.AssemblyReference.cache
+C:\Users\olste\Desktop\Navegador\Nav\Codigo\Componentes\Navegador\CapaVista\obj\Release\CapaVista.Login.resources
+C:\Users\olste\Desktop\Navegador\Nav\Codigo\Componentes\Navegador\CapaVista\obj\Release\CapaVista.Navegador.resources
+C:\Users\olste\Desktop\Navegador\Nav\Codigo\Componentes\Navegador\CapaVista\obj\Release\CapaVistaNav.Properties.Resources.resources
+C:\Users\olste\Desktop\Navegador\Nav\Codigo\Componentes\Navegador\CapaVista\obj\Release\CapaVistaNav.csproj.GenerateResource.cache
+C:\Users\olste\Desktop\Navegador\Nav\Codigo\Componentes\Navegador\CapaVista\obj\Release\CapaVistaNav.csproj.CoreCompileInputs.cache
+C:\Users\olste\Desktop\Navegador\Nav\Codigo\Componentes\Navegador\CapaVista\obj\Release\CapaVistaNav.csproj.CopyComplete
+C:\Users\olste\Desktop\Navegador\Nav\Codigo\Componentes\Navegador\CapaVista\obj\Release\CapaVistaNav.dll
+C:\Users\olste\Desktop\Navegador\Nav\Codigo\Componentes\Navegador\CapaVista\obj\Release\CapaVistaNav.pdb
+C:\Users\olste\Desktop\Navegador\NavegadorCS\CapaVista\bin\Release\CapaVistaNav.dll
+C:\Users\olste\Desktop\Navegador\NavegadorCS\CapaVista\bin\Release\CapaVistaNav.pdb
+C:\Users\olste\Desktop\Navegador\NavegadorCS\CapaVista\bin\Release\CapaControladorNav.dll
+C:\Users\olste\Desktop\Navegador\NavegadorCS\CapaVista\bin\Release\Seguridad_Controlador.dll
+C:\Users\olste\Desktop\Navegador\NavegadorCS\CapaVista\bin\Release\CapaModeloNav.dll
+C:\Users\olste\Desktop\Navegador\NavegadorCS\CapaVista\bin\Release\Modelo_Seguridad.dll
+C:\Users\olste\Desktop\Navegador\NavegadorCS\CapaVista\bin\Release\CapaControladorNav.pdb
+C:\Users\olste\Desktop\Navegador\NavegadorCS\CapaVista\bin\Release\CapaModeloNav.pdb
+C:\Users\olste\Desktop\Navegador\NavegadorCS\CapaVista\obj\Release\CapaVistaNav.csproj.AssemblyReference.cache
+C:\Users\olste\Desktop\Navegador\NavegadorCS\CapaVista\obj\Release\CapaVista.Login.resources
+C:\Users\olste\Desktop\Navegador\NavegadorCS\CapaVista\obj\Release\CapaVista.Navegador.resources
+C:\Users\olste\Desktop\Navegador\NavegadorCS\CapaVista\obj\Release\CapaVistaNav.Properties.Resources.resources
+C:\Users\olste\Desktop\Navegador\NavegadorCS\CapaVista\obj\Release\CapaVistaNav.csproj.GenerateResource.cache
+C:\Users\olste\Desktop\Navegador\NavegadorCS\CapaVista\obj\Release\CapaVistaNav.csproj.CoreCompileInputs.cache
+C:\Users\olste\Desktop\Navegador\NavegadorCS\CapaVista\obj\Release\CapaVistaNav.csproj.CopyComplete
+C:\Users\olste\Desktop\Navegador\NavegadorCS\CapaVista\obj\Release\CapaVistaNav.dll
+C:\Users\olste\Desktop\Navegador\NavegadorCS\CapaVista\obj\Release\CapaVistaNav.pdb
+C:\Users\olste\Desktop\Navegador\proyectoads22023\Codigo\Componentes\Navegador\CapaVista\bin\Release\CapaVistaNav.dll
+C:\Users\olste\Desktop\Navegador\proyectoads22023\Codigo\Componentes\Navegador\CapaVista\bin\Release\CapaVistaNav.pdb
+C:\Users\olste\Desktop\Navegador\proyectoads22023\Codigo\Componentes\Navegador\CapaVista\bin\Release\CapaControladorNav.dll
+C:\Users\olste\Desktop\Navegador\proyectoads22023\Codigo\Componentes\Navegador\CapaVista\bin\Release\Seguridad_Controlador.dll
+C:\Users\olste\Desktop\Navegador\proyectoads22023\Codigo\Componentes\Navegador\CapaVista\bin\Release\CapaModeloNav.dll
+C:\Users\olste\Desktop\Navegador\proyectoads22023\Codigo\Componentes\Navegador\CapaVista\bin\Release\Modelo_Seguridad.dll
+C:\Users\olste\Desktop\Navegador\proyectoads22023\Codigo\Componentes\Navegador\CapaVista\bin\Release\CapaControladorNav.pdb
+C:\Users\olste\Desktop\Navegador\proyectoads22023\Codigo\Componentes\Navegador\CapaVista\bin\Release\CapaModeloNav.pdb
+C:\Users\olste\Desktop\Navegador\proyectoads22023\Codigo\Componentes\Navegador\CapaVista\obj\Release\CapaVistaNav.csproj.AssemblyReference.cache
+C:\Users\olste\Desktop\Navegador\proyectoads22023\Codigo\Componentes\Navegador\CapaVista\obj\Release\CapaVista.Login.resources
+C:\Users\olste\Desktop\Navegador\proyectoads22023\Codigo\Componentes\Navegador\CapaVista\obj\Release\CapaVista.Navegador.resources
+C:\Users\olste\Desktop\Navegador\proyectoads22023\Codigo\Componentes\Navegador\CapaVista\obj\Release\CapaVistaNav.Properties.Resources.resources
+C:\Users\olste\Desktop\Navegador\proyectoads22023\Codigo\Componentes\Navegador\CapaVista\obj\Release\CapaVistaNav.csproj.GenerateResource.cache
+C:\Users\olste\Desktop\Navegador\proyectoads22023\Codigo\Componentes\Navegador\CapaVista\obj\Release\CapaVistaNav.csproj.CoreCompileInputs.cache
+C:\Users\olste\Desktop\Navegador\proyectoads22023\Codigo\Componentes\Navegador\CapaVista\obj\Release\CapaVistaNav.csproj.CopyComplete
+C:\Users\olste\Desktop\Navegador\proyectoads22023\Codigo\Componentes\Navegador\CapaVista\obj\Release\CapaVistaNav.dll
+C:\Users\olste\Desktop\Navegador\proyectoads22023\Codigo\Componentes\Navegador\CapaVista\obj\Release\CapaVistaNav.pdb
+C:\Users\olste\Desktop\OLIVER 2019\Tareas\Noveno Semestre\sources\ISP12k24\Equipo2\Codigo\Componentes\Navegador\CapaVista\bin\Release\CapaVistaNav.dll
+C:\Users\olste\Desktop\OLIVER 2019\Tareas\Noveno Semestre\sources\ISP12k24\Equipo2\Codigo\Componentes\Navegador\CapaVista\bin\Release\CapaVistaNav.pdb
+C:\Users\olste\Desktop\OLIVER 2019\Tareas\Noveno Semestre\sources\ISP12k24\Equipo2\Codigo\Componentes\Navegador\CapaVista\bin\Release\CapaControladorNav.dll
+C:\Users\olste\Desktop\OLIVER 2019\Tareas\Noveno Semestre\sources\ISP12k24\Equipo2\Codigo\Componentes\Navegador\CapaVista\bin\Release\Seguridad_Controlador.dll
+C:\Users\olste\Desktop\OLIVER 2019\Tareas\Noveno Semestre\sources\ISP12k24\Equipo2\Codigo\Componentes\Navegador\CapaVista\bin\Release\CapaModeloNav.dll
+C:\Users\olste\Desktop\OLIVER 2019\Tareas\Noveno Semestre\sources\ISP12k24\Equipo2\Codigo\Componentes\Navegador\CapaVista\bin\Release\Modelo_Seguridad.dll
+C:\Users\olste\Desktop\OLIVER 2019\Tareas\Noveno Semestre\sources\ISP12k24\Equipo2\Codigo\Componentes\Navegador\CapaVista\bin\Release\CapaControladorNav.pdb
+C:\Users\olste\Desktop\OLIVER 2019\Tareas\Noveno Semestre\sources\ISP12k24\Equipo2\Codigo\Componentes\Navegador\CapaVista\bin\Release\CapaModeloNav.pdb
+C:\Users\olste\Desktop\OLIVER 2019\Tareas\Noveno Semestre\sources\ISP12k24\Equipo2\Codigo\Componentes\Navegador\CapaVista\obj\Release\CapaVistaNav.csproj.AssemblyReference.cache
+C:\Users\olste\Desktop\OLIVER 2019\Tareas\Noveno Semestre\sources\ISP12k24\Equipo2\Codigo\Componentes\Navegador\CapaVista\obj\Release\CapaVista.Login.resources
+C:\Users\olste\Desktop\OLIVER 2019\Tareas\Noveno Semestre\sources\ISP12k24\Equipo2\Codigo\Componentes\Navegador\CapaVista\obj\Release\CapaVista.Navegador.resources
+C:\Users\olste\Desktop\OLIVER 2019\Tareas\Noveno Semestre\sources\ISP12k24\Equipo2\Codigo\Componentes\Navegador\CapaVista\obj\Release\CapaVistaNav.Properties.Resources.resources
+C:\Users\olste\Desktop\OLIVER 2019\Tareas\Noveno Semestre\sources\ISP12k24\Equipo2\Codigo\Componentes\Navegador\CapaVista\obj\Release\CapaVistaNav.csproj.GenerateResource.cache
+C:\Users\olste\Desktop\OLIVER 2019\Tareas\Noveno Semestre\sources\ISP12k24\Equipo2\Codigo\Componentes\Navegador\CapaVista\obj\Release\CapaVistaNav.csproj.CoreCompileInputs.cache
+C:\Users\olste\Desktop\OLIVER 2019\Tareas\Noveno Semestre\sources\ISP12k24\Equipo2\Codigo\Componentes\Navegador\CapaVista\obj\Release\CapaVistaNav.csproj.CopyComplete
+C:\Users\olste\Desktop\OLIVER 2019\Tareas\Noveno Semestre\sources\ISP12k24\Equipo2\Codigo\Componentes\Navegador\CapaVista\obj\Release\CapaVistaNav.dll
+C:\Users\olste\Desktop\OLIVER 2019\Tareas\Noveno Semestre\sources\ISP12k24\Equipo2\Codigo\Componentes\Navegador\CapaVista\obj\Release\CapaVistaNav.pdb
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Componentes\Navegador\CapaVista\bin\Release\CapaVistaNav.dll
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Componentes\Navegador\CapaVista\bin\Release\CapaVistaNav.pdb
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Componentes\Navegador\CapaVista\bin\Release\CapaControladorNav.dll
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Componentes\Navegador\CapaVista\bin\Release\CapaModeloNav.dll
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Componentes\Navegador\CapaVista\bin\Release\Modelo_Seguridad.dll
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Componentes\Navegador\CapaVista\bin\Release\CapaControladorNav.pdb
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Componentes\Navegador\CapaVista\bin\Release\CapaModeloNav.pdb
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Componentes\Navegador\CapaVista\obj\Release\CapaVistaNav.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Componentes\Navegador\CapaVista\obj\Release\CapaVista.Login.resources
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Componentes\Navegador\CapaVista\obj\Release\CapaVista.Navegador.resources
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Componentes\Navegador\CapaVista\obj\Release\CapaVistaNav.Properties.Resources.resources
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Componentes\Navegador\CapaVista\obj\Release\CapaVistaNav.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Componentes\Navegador\CapaVista\obj\Release\CapaVistaNav.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Componentes\Navegador\CapaVista\obj\Release\CapaVist.CB24C1D2.Up2Date
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Componentes\Navegador\CapaVista\obj\Release\CapaVistaNav.dll
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Componentes\Navegador\CapaVista\obj\Release\CapaVistaNav.pdb
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Componentes\Navegador\CapaVista\bin\Release\CapaVistaNav.dll
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Componentes\Navegador\CapaVista\bin\Release\CapaVistaNav.pdb
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Componentes\Navegador\CapaVista\bin\Release\CapaControladorNav.dll
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Componentes\Navegador\CapaVista\bin\Release\Seguridad_Controlador.dll
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Componentes\Navegador\CapaVista\bin\Release\CapaModeloNav.dll
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Componentes\Navegador\CapaVista\bin\Release\Modelo_Seguridad.dll
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Componentes\Navegador\CapaVista\bin\Release\CapaControladorNav.pdb
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Componentes\Navegador\CapaVista\bin\Release\CapaModeloNav.pdb
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Componentes\Navegador\CapaVista\obj\Release\CapaVistaNav.csproj.AssemblyReference.cache
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Componentes\Navegador\CapaVista\obj\Release\CapaVista.Login.resources
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Componentes\Navegador\CapaVista\obj\Release\CapaVista.Navegador.resources
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Componentes\Navegador\CapaVista\obj\Release\CapaVistaNav.Properties.Resources.resources
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Componentes\Navegador\CapaVista\obj\Release\CapaVistaNav.csproj.GenerateResource.cache
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Componentes\Navegador\CapaVista\obj\Release\CapaVistaNav.csproj.CoreCompileInputs.cache
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Componentes\Navegador\CapaVista\obj\Release\CapaVistaNav.csproj.CopyComplete
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Componentes\Navegador\CapaVista\obj\Release\CapaVistaNav.dll
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Componentes\Navegador\CapaVista\obj\Release\CapaVistaNav.pdb

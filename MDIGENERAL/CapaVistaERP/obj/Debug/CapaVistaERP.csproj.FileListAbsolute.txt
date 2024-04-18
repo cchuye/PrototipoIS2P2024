@@ -1,0 +1,432 @@
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\bin\Debug\CapaVistaERP.dll
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\bin\Debug\CapaVistaERP.pdb
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.csproj.AssemblyReference.cache
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.MDIGeneral.resources
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.csproj.GenerateResource.cache
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.csproj.CoreCompileInputs.cache
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.dll
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.pdb
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\bin\Debug\CapaControladorERP.dll
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\bin\Debug\CapaControladorERP.pdb
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.csproj.CopyComplete
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\bin\Debug\CapaModeloERP.dll
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\bin\Debug\CapaModeloERP.pdb
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Properties.Resources.resources
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\bin\Debug\CapaVistaERP.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\bin\Debug\CapaVistaERP.pdb
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\bin\Debug\CapaControladorERP.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\bin\Debug\CapaModeloERP.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\bin\Debug\CapaControladorERP.pdb
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\bin\Debug\CapaModeloERP.pdb
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.csproj.AssemblyReference.cache
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.frm_cotizacion.resources
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Mantenimientos.frm_mant_clientes.resources
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Mantenimientos.frm_mant_vendedores.resources
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.MDIGeneral.resources
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Properties.Resources.resources
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.csproj.GenerateResource.cache
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.csproj.CoreCompileInputs.cache
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.csproj.CopyComplete
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.pdb
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\bin\Debug\CapaVistaERP.dll
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\bin\Debug\CapaVistaERP.pdb
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\bin\Debug\CapaControladorERP.dll
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\bin\Debug\CapaModeloERP.dll
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\bin\Debug\CapaControladorERP.pdb
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\bin\Debug\CapaModeloERP.pdb
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.csproj.AssemblyReference.cache
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Mantenimientos.frm_mant_clientes.resources
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Mantenimientos.frm_mant_vendedores.resources
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.MDIGeneral.resources
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Properties.Resources.resources
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.csproj.GenerateResource.cache
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.csproj.CoreCompileInputs.cache
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.csproj.CopyComplete
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.dll
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.pdb
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\bin\Debug\CapaVistaNav.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\bin\Debug\Seguridad_Controlador.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\bin\Debug\CapaControladorNav.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\bin\Debug\Modelo_Seguridad.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\bin\Debug\CapaModeloNav.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\bin\Debug\CapaVistaNav.pdb
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\bin\Debug\CapaControladorNav.pdb
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\bin\Debug\CapaModeloNav.pdb
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.Compras.resources
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.FacturaporPagar.resources
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.frm_mant_TransProveedores.resources
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.frm_mant_Proveedor.resources
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Mantenimientos.frmMantenimientoBanco.resources
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Mantenimientos.frmMantenimientoMovimientoBanco.resources
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.AutorizacionOrdenDeCompra.resources
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.CajaProveedor.resources
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.MovimientoProveedores.resources
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.OrdenesdeCompra.resources
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\bin\Debug\CapaVistaERP.dll
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\bin\Debug\CapaVistaERP.pdb
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\bin\Debug\CapaControladorERP.dll
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\bin\Debug\CapaModeloERP.dll
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\bin\Debug\Modelo_Seguridad.dll
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\bin\Debug\CapaModeloNav.dll
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\bin\Debug\CapaControladorERP.pdb
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\bin\Debug\CapaVistaNav.pdb
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\bin\Debug\CapaModeloERP.pdb
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\bin\Debug\CapaControladorNav.pdb
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\bin\Debug\CapaModeloNav.pdb
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.Compras.resources
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.FacturaporPagar.resources
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Mantenimientos.frmMantenimientoBanco.resources
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Mantenimientos.frmMantenimientoMovimientoBanco.resources
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Mantenimientos.frm_mant_clientes.resources
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Mantenimientos.frm_mant_vendedores.resources
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.MDIGeneral.resources
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.AutorizacionOrdenDeCompra.resources
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.CajaProveedor.resources
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.MovimientoProveedores.resources
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.OrdenesdeCompra.resources
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Properties.Resources.resources
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVist.CEC4F2E2.Up2Date
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.dll
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.pdb
+C:\Users\DELL\Desktop\labo analisis\api analisis\Nueva carpeta\Nueva carpeta\Nueva carpeta\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\bin\Debug\CapaVistaERP.dll
+C:\Users\DELL\Desktop\labo analisis\api analisis\Nueva carpeta\Nueva carpeta\Nueva carpeta\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\bin\Debug\CapaVistaERP.pdb
+C:\Users\DELL\Desktop\labo analisis\api analisis\Nueva carpeta\Nueva carpeta\Nueva carpeta\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\bin\Debug\CapaControladorERP.dll
+C:\Users\DELL\Desktop\labo analisis\api analisis\Nueva carpeta\Nueva carpeta\Nueva carpeta\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\bin\Debug\CapaVistaNav.dll
+C:\Users\DELL\Desktop\labo analisis\api analisis\Nueva carpeta\Nueva carpeta\Nueva carpeta\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\bin\Debug\CapaModeloERP.dll
+C:\Users\DELL\Desktop\labo analisis\api analisis\Nueva carpeta\Nueva carpeta\Nueva carpeta\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\bin\Debug\Seguridad_Controlador.dll
+C:\Users\DELL\Desktop\labo analisis\api analisis\Nueva carpeta\Nueva carpeta\Nueva carpeta\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\bin\Debug\CapaControladorNav.dll
+C:\Users\DELL\Desktop\labo analisis\api analisis\Nueva carpeta\Nueva carpeta\Nueva carpeta\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\bin\Debug\Modelo_Seguridad.dll
+C:\Users\DELL\Desktop\labo analisis\api analisis\Nueva carpeta\Nueva carpeta\Nueva carpeta\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\bin\Debug\CapaModeloNav.dll
+C:\Users\DELL\Desktop\labo analisis\api analisis\Nueva carpeta\Nueva carpeta\Nueva carpeta\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\bin\Debug\CapaControladorERP.pdb
+C:\Users\DELL\Desktop\labo analisis\api analisis\Nueva carpeta\Nueva carpeta\Nueva carpeta\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\bin\Debug\CapaVistaNav.pdb
+C:\Users\DELL\Desktop\labo analisis\api analisis\Nueva carpeta\Nueva carpeta\Nueva carpeta\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\bin\Debug\CapaModeloERP.pdb
+C:\Users\DELL\Desktop\labo analisis\api analisis\Nueva carpeta\Nueva carpeta\Nueva carpeta\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\bin\Debug\CapaControladorNav.pdb
+C:\Users\DELL\Desktop\labo analisis\api analisis\Nueva carpeta\Nueva carpeta\Nueva carpeta\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\bin\Debug\CapaModeloNav.pdb
+C:\Users\DELL\Desktop\labo analisis\api analisis\Nueva carpeta\Nueva carpeta\Nueva carpeta\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\labo analisis\api analisis\Nueva carpeta\Nueva carpeta\Nueva carpeta\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Mantenimientos.frm_Mant_Proveedor.resources
+C:\Users\DELL\Desktop\labo analisis\api analisis\Nueva carpeta\Nueva carpeta\Nueva carpeta\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Mantenimientos.frm_mant_tipo_de_cambio.resources
+C:\Users\DELL\Desktop\labo analisis\api analisis\Nueva carpeta\Nueva carpeta\Nueva carpeta\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Mantenimientos.frm_Mant_TransProveedores.resources
+C:\Users\DELL\Desktop\labo analisis\api analisis\Nueva carpeta\Nueva carpeta\Nueva carpeta\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.Compras.resources
+C:\Users\DELL\Desktop\labo analisis\api analisis\Nueva carpeta\Nueva carpeta\Nueva carpeta\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.Dispo_Diaria.resources
+C:\Users\DELL\Desktop\labo analisis\api analisis\Nueva carpeta\Nueva carpeta\Nueva carpeta\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.FacturaporPagar.resources
+C:\Users\DELL\Desktop\labo analisis\api analisis\Nueva carpeta\Nueva carpeta\Nueva carpeta\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.frm_cotizacion.resources
+C:\Users\DELL\Desktop\labo analisis\api analisis\Nueva carpeta\Nueva carpeta\Nueva carpeta\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Mantenimientos.frmMantenimientoBanco.resources
+C:\Users\DELL\Desktop\labo analisis\api analisis\Nueva carpeta\Nueva carpeta\Nueva carpeta\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Mantenimientos.frmMantenimientoMovimientoBanco.resources
+C:\Users\DELL\Desktop\labo analisis\api analisis\Nueva carpeta\Nueva carpeta\Nueva carpeta\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Mantenimientos.frm_mant_clientes.resources
+C:\Users\DELL\Desktop\labo analisis\api analisis\Nueva carpeta\Nueva carpeta\Nueva carpeta\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Mantenimientos.frm_mant_vendedores.resources
+C:\Users\DELL\Desktop\labo analisis\api analisis\Nueva carpeta\Nueva carpeta\Nueva carpeta\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.MDIGeneral.resources
+C:\Users\DELL\Desktop\labo analisis\api analisis\Nueva carpeta\Nueva carpeta\Nueva carpeta\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.AutorizacionOrdenDeCompra.resources
+C:\Users\DELL\Desktop\labo analisis\api analisis\Nueva carpeta\Nueva carpeta\Nueva carpeta\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.CajaProveedor.resources
+C:\Users\DELL\Desktop\labo analisis\api analisis\Nueva carpeta\Nueva carpeta\Nueva carpeta\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.MovimientoProveedores.resources
+C:\Users\DELL\Desktop\labo analisis\api analisis\Nueva carpeta\Nueva carpeta\Nueva carpeta\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.Mov_bancario.resources
+C:\Users\DELL\Desktop\labo analisis\api analisis\Nueva carpeta\Nueva carpeta\Nueva carpeta\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.OrdenesdeCompra.resources
+C:\Users\DELL\Desktop\labo analisis\api analisis\Nueva carpeta\Nueva carpeta\Nueva carpeta\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Properties.Resources.resources
+C:\Users\DELL\Desktop\labo analisis\api analisis\Nueva carpeta\Nueva carpeta\Nueva carpeta\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\labo analisis\api analisis\Nueva carpeta\Nueva carpeta\Nueva carpeta\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\labo analisis\api analisis\Nueva carpeta\Nueva carpeta\Nueva carpeta\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.csproj.CopyComplete
+C:\Users\DELL\Desktop\labo analisis\api analisis\Nueva carpeta\Nueva carpeta\Nueva carpeta\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.dll
+C:\Users\DELL\Desktop\labo analisis\api analisis\Nueva carpeta\Nueva carpeta\Nueva carpeta\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.pdb
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Mantenimientos.frm_Mant_Proveedor.resources
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Mantenimientos.frm_mant_tipo_de_cambio.resources
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Mantenimientos.frm_Mant_TransProveedores.resources
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.BuscarCompras.resources
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.BuscarOrdenCompra.resources
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.BuscarProveedor.resources
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.Compras.resources
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.Dispo_Diaria.resources
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.FacturaporPagar.resources
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Mantenimientos.frmMantenimientoBanco.resources
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.AutorizacionOrdenDeCompra.resources
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.CajaProveedor.resources
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.MovimientoProveedores.resources
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.Mov_bancario.resources
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.OrdenesdeCompra.resources
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.Cotizacion.resources
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.frm_factura_cobrar.resources
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.frm_pedidos.resources
+C:\Users\DELL\Desktop\labo analisis\Nueva carpeta (2)\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\bin\Debug\CapaVistaERP.dll
+C:\Users\DELL\Desktop\labo analisis\Nueva carpeta (2)\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\bin\Debug\CapaVistaERP.pdb
+C:\Users\DELL\Desktop\labo analisis\Nueva carpeta (2)\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\bin\Debug\CapaControladorERP.dll
+C:\Users\DELL\Desktop\labo analisis\Nueva carpeta (2)\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\bin\Debug\CapaVistaNav.dll
+C:\Users\DELL\Desktop\labo analisis\Nueva carpeta (2)\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\bin\Debug\CapaModeloERP.dll
+C:\Users\DELL\Desktop\labo analisis\Nueva carpeta (2)\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\bin\Debug\Seguridad_Controlador.dll
+C:\Users\DELL\Desktop\labo analisis\Nueva carpeta (2)\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\bin\Debug\CapaControladorNav.dll
+C:\Users\DELL\Desktop\labo analisis\Nueva carpeta (2)\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\bin\Debug\Modelo_Seguridad.dll
+C:\Users\DELL\Desktop\labo analisis\Nueva carpeta (2)\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\bin\Debug\CapaModeloNav.dll
+C:\Users\DELL\Desktop\labo analisis\Nueva carpeta (2)\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\bin\Debug\CapaControladorERP.pdb
+C:\Users\DELL\Desktop\labo analisis\Nueva carpeta (2)\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\bin\Debug\CapaVistaNav.pdb
+C:\Users\DELL\Desktop\labo analisis\Nueva carpeta (2)\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\bin\Debug\CapaModeloERP.pdb
+C:\Users\DELL\Desktop\labo analisis\Nueva carpeta (2)\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\bin\Debug\CapaControladorNav.pdb
+C:\Users\DELL\Desktop\labo analisis\Nueva carpeta (2)\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\bin\Debug\CapaModeloNav.pdb
+C:\Users\DELL\Desktop\labo analisis\Nueva carpeta (2)\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\labo analisis\Nueva carpeta (2)\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Mantenimientos.frm_Mant_Proveedor.resources
+C:\Users\DELL\Desktop\labo analisis\Nueva carpeta (2)\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Mantenimientos.frm_mant_tipo_de_cambio.resources
+C:\Users\DELL\Desktop\labo analisis\Nueva carpeta (2)\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Mantenimientos.frm_Mant_TransProveedores.resources
+C:\Users\DELL\Desktop\labo analisis\Nueva carpeta (2)\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.BuscarCompras.resources
+C:\Users\DELL\Desktop\labo analisis\Nueva carpeta (2)\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.BuscarOrdenCompra.resources
+C:\Users\DELL\Desktop\labo analisis\Nueva carpeta (2)\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.BuscarProveedor.resources
+C:\Users\DELL\Desktop\labo analisis\Nueva carpeta (2)\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.Compras.resources
+C:\Users\DELL\Desktop\labo analisis\Nueva carpeta (2)\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.Dispo_Diaria.resources
+C:\Users\DELL\Desktop\labo analisis\Nueva carpeta (2)\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.FacturaporPagar.resources
+C:\Users\DELL\Desktop\labo analisis\Nueva carpeta (2)\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.Cotizacion.resources
+C:\Users\DELL\Desktop\labo analisis\Nueva carpeta (2)\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Mantenimientos.frmMantenimientoBanco.resources
+C:\Users\DELL\Desktop\labo analisis\Nueva carpeta (2)\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Mantenimientos.frmMantenimientoMovimientoBanco.resources
+C:\Users\DELL\Desktop\labo analisis\Nueva carpeta (2)\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Mantenimientos.frm_mant_clientes.resources
+C:\Users\DELL\Desktop\labo analisis\Nueva carpeta (2)\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Mantenimientos.frm_mant_vendedores.resources
+C:\Users\DELL\Desktop\labo analisis\Nueva carpeta (2)\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.MDIGeneral.resources
+C:\Users\DELL\Desktop\labo analisis\Nueva carpeta (2)\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.AutorizacionOrdenDeCompra.resources
+C:\Users\DELL\Desktop\labo analisis\Nueva carpeta (2)\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.CajaProveedor.resources
+C:\Users\DELL\Desktop\labo analisis\Nueva carpeta (2)\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.frm_factura_cobrar.resources
+C:\Users\DELL\Desktop\labo analisis\Nueva carpeta (2)\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.frm_pedidos.resources
+C:\Users\DELL\Desktop\labo analisis\Nueva carpeta (2)\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.MovimientoProveedores.resources
+C:\Users\DELL\Desktop\labo analisis\Nueva carpeta (2)\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.Mov_bancario.resources
+C:\Users\DELL\Desktop\labo analisis\Nueva carpeta (2)\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.OrdenesdeCompra.resources
+C:\Users\DELL\Desktop\labo analisis\Nueva carpeta (2)\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Properties.Resources.resources
+C:\Users\DELL\Desktop\labo analisis\Nueva carpeta (2)\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\labo analisis\Nueva carpeta (2)\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\labo analisis\Nueva carpeta (2)\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.csproj.CopyComplete
+C:\Users\DELL\Desktop\labo analisis\Nueva carpeta (2)\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.dll
+C:\Users\DELL\Desktop\labo analisis\Nueva carpeta (2)\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.pdb
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Mantenimientos.frm_Mant_Proveedor.resources
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Mantenimientos.frm_mant_tipo_de_cambio.resources
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Mantenimientos.frm_Mant_TransProveedores.resources
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.BuscarCompras.resources
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.BuscarOrdenCompra.resources
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.BuscarProveedor.resources
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.Dispo_Diaria.resources
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.Cotizacion.resources
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.frm_factura_cobrar.resources
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.frm_pedidos.resources
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.Mov_bancario.resources
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Mantenimientos.frmMovimientoInventario.resources
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Mantenimientos.frmProductos.resources
+C:\Users\Usuario\Documents\GitHub\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.TrasladoDeProducto.resources
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Mantenimientos.frmMovimientoInventario.resources
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Mantenimientos.frmProductos.resources
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.TrasladoDeProducto.resources
+C:\Users\oteke\OneDrive\Escritorio\PROYECTO1\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.csproj.AssemblyReference.cache
+C:\Users\oteke\OneDrive\Escritorio\PROYECTO1\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Mantenimientos.frmMovimientoInventario.resources
+C:\Users\oteke\OneDrive\Escritorio\PROYECTO1\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Mantenimientos.frmProductos.resources
+C:\Users\oteke\OneDrive\Escritorio\PROYECTO1\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Mantenimientos.frm_Mant_Proveedor.resources
+C:\Users\oteke\OneDrive\Escritorio\PROYECTO1\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Mantenimientos.frm_mant_tipo_de_cambio.resources
+C:\Users\oteke\OneDrive\Escritorio\PROYECTO1\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Mantenimientos.frm_Mant_TransProveedores.resources
+C:\Users\oteke\OneDrive\Escritorio\PROYECTO1\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.BuscarCompras.resources
+C:\Users\oteke\OneDrive\Escritorio\PROYECTO1\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.BuscarOrdenCompra.resources
+C:\Users\oteke\OneDrive\Escritorio\PROYECTO1\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.BuscarProveedor.resources
+C:\Users\oteke\OneDrive\Escritorio\PROYECTO1\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.Compras.resources
+C:\Users\oteke\OneDrive\Escritorio\PROYECTO1\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.Dispo_Diaria.resources
+C:\Users\oteke\OneDrive\Escritorio\PROYECTO1\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.FacturaporPagar.resources
+C:\Users\oteke\OneDrive\Escritorio\PROYECTO1\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.Cotizacion.resources
+C:\Users\oteke\OneDrive\Escritorio\PROYECTO1\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Mantenimientos.frmMantenimientoBanco.resources
+C:\Users\oteke\OneDrive\Escritorio\PROYECTO1\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Mantenimientos.frm_mant_clientes.resources
+C:\Users\oteke\OneDrive\Escritorio\PROYECTO1\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Mantenimientos.frm_mant_vendedores.resources
+C:\Users\oteke\OneDrive\Escritorio\PROYECTO1\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.MDIGeneral.resources
+C:\Users\oteke\OneDrive\Escritorio\PROYECTO1\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.AutorizacionOrdenDeCompra.resources
+C:\Users\oteke\OneDrive\Escritorio\PROYECTO1\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.CajaProveedor.resources
+C:\Users\oteke\OneDrive\Escritorio\PROYECTO1\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.frm_factura_cobrar.resources
+C:\Users\oteke\OneDrive\Escritorio\PROYECTO1\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.frm_pedidos.resources
+C:\Users\oteke\OneDrive\Escritorio\PROYECTO1\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.MovimientoProveedores.resources
+C:\Users\oteke\OneDrive\Escritorio\PROYECTO1\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.Mov_bancario.resources
+C:\Users\oteke\OneDrive\Escritorio\PROYECTO1\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.OrdenesdeCompra.resources
+C:\Users\oteke\OneDrive\Escritorio\PROYECTO1\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.TrasladoDeProducto.resources
+C:\Users\oteke\OneDrive\Escritorio\PROYECTO1\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Properties.Resources.resources
+C:\Users\oteke\OneDrive\Escritorio\PROYECTO1\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.csproj.GenerateResource.cache
+C:\Users\oteke\OneDrive\Escritorio\PROYECTO1\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.csproj.CoreCompileInputs.cache
+C:\Users\oteke\OneDrive\Escritorio\PROYECTO1\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.dll
+C:\Users\oteke\OneDrive\Escritorio\PROYECTO1\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.pdb
+C:\Users\oteke\OneDrive\Escritorio\PROYECTO1\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\bin\Debug\CapaVistaERP.dll
+C:\Users\oteke\OneDrive\Escritorio\PROYECTO1\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\bin\Debug\CapaVistaERP.pdb
+C:\Users\oteke\OneDrive\Escritorio\PROYECTO1\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\bin\Debug\CapaControladorERP.dll
+C:\Users\oteke\OneDrive\Escritorio\PROYECTO1\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\bin\Debug\CapaModeloERP.dll
+C:\Users\oteke\OneDrive\Escritorio\PROYECTO1\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\bin\Debug\CapaModeloNav.dll
+C:\Users\oteke\OneDrive\Escritorio\PROYECTO1\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\bin\Debug\Modelo_Seguridad.dll
+C:\Users\oteke\OneDrive\Escritorio\PROYECTO1\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\bin\Debug\CapaControladorERP.pdb
+C:\Users\oteke\OneDrive\Escritorio\PROYECTO1\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\bin\Debug\CapaControladorNav.pdb
+C:\Users\oteke\OneDrive\Escritorio\PROYECTO1\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\bin\Debug\CapaVistaNav.pdb
+C:\Users\oteke\OneDrive\Escritorio\PROYECTO1\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\bin\Debug\CapaModeloERP.pdb
+C:\Users\oteke\OneDrive\Escritorio\PROYECTO1\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\bin\Debug\CapaModeloNav.pdb
+C:\Users\oteke\OneDrive\Escritorio\PROYECTO1\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.csproj.CopyComplete
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Mantenimientos.frmMantenimientoCuentaBancaria.resources
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Mantenimientos.frmMovimientoInventario.resources
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Mantenimientos.frmProductos.resources
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Mantenimientos.frm_Mant_Proveedor.resources
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Mantenimientos.frm_mant_tipo_de_cambio.resources
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Mantenimientos.frm_Mant_TransProveedores.resources
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.BuscarCompras.resources
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.BuscarOrdenCompra.resources
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.BuscarProveedor.resources
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.Compras.resources
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.Dispo_Diaria.resources
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.FacturaporPagar.resources
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.Cotizacion.resources
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Mantenimientos.frmMantenimientoBanco.resources
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Mantenimientos.frmMantenimientoMovimientoConcepto.resources
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Mantenimientos.frm_mant_clientes.resources
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Mantenimientos.frm_mant_vendedores.resources
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.AutorizacionOrdenDeCompra.resources
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.CajaProveedor.resources
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.frmMovimientoDeBancos.resources
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.frm_factura_cobrar.resources
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.frm_pedidos.resources
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.MovimientoProveedores.resources
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.Mov_bancario.resources
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.OrdenesdeCompra.resources
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.TrasladoDeProducto.resources
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\bin\Debug\CapaModeloNav.dll
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\bin\Debug\Modelo_Seguridad.dll
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\bin\Debug\CapaControladorNav.pdb
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\bin\Debug\CapaVistaNav.pdb
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\bin\Debug\CapaModeloNav.pdb
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Mantenimientos.frmMantenimientoCuentaBancaria.resources
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Mantenimientos.frmMantenimientoMovimientoConcepto.resources
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.frmMovimientoDeBancos.resources
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\bin\Debug\CapaVistaNav.dll
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\bin\Debug\CapaControladorNav.dll
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\bin\Debug\CapaModeloNav.dll
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\bin\Debug\CapaVistaNav.pdb
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\bin\Debug\CapaControladorNav.pdb
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\bin\Debug\CapaModeloNav.pdb
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\bin\Debug\Modelo_Seguridad.dll
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\bin\Debug\CapaControladorNav.dll
+C:\Users\oteke\OneDrive\Escritorio\PROYECTO1\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\bin\Debug\CapaVistaNav.dll
+C:\Users\oteke\OneDrive\Escritorio\PROYECTO1\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\bin\Debug\CapaControladorNav.dll
+C:\Users\oteke\OneDrive\Escritorio\PROYECTO1\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Mantenimientos.frmMantenimientoCuentaBancaria.resources
+C:\Users\oteke\OneDrive\Escritorio\PROYECTO1\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Mantenimientos.frmMantenimientoMovimientoConcepto.resources
+C:\Users\oteke\OneDrive\Escritorio\PROYECTO1\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.frmMovimientoDeBancos.resources
+C:\Users\DELL\Desktop\labo analisis\holaaaaaa\Nueva carpeta (5)\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\labo analisis\holaaaaaa\Nueva carpeta (5)\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Mantenimientos.frmMantenimientoCuentaBancaria.resources
+C:\Users\DELL\Desktop\labo analisis\holaaaaaa\Nueva carpeta (5)\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Mantenimientos.frmMovimientoInventario.resources
+C:\Users\DELL\Desktop\labo analisis\holaaaaaa\Nueva carpeta (5)\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Mantenimientos.frmProductos.resources
+C:\Users\DELL\Desktop\labo analisis\holaaaaaa\Nueva carpeta (5)\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Mantenimientos.frm_Mant_Proveedor.resources
+C:\Users\DELL\Desktop\labo analisis\holaaaaaa\Nueva carpeta (5)\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Mantenimientos.frm_mant_tipo_de_cambio.resources
+C:\Users\DELL\Desktop\labo analisis\holaaaaaa\Nueva carpeta (5)\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Mantenimientos.frm_Mant_TransProveedores.resources
+C:\Users\DELL\Desktop\labo analisis\holaaaaaa\Nueva carpeta (5)\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.BuscarCompras.resources
+C:\Users\DELL\Desktop\labo analisis\holaaaaaa\Nueva carpeta (5)\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.BuscarOrdenCompra.resources
+C:\Users\DELL\Desktop\labo analisis\holaaaaaa\Nueva carpeta (5)\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.BuscarProveedor.resources
+C:\Users\DELL\Desktop\labo analisis\holaaaaaa\Nueva carpeta (5)\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.Compras.resources
+C:\Users\DELL\Desktop\labo analisis\holaaaaaa\Nueva carpeta (5)\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.Dispo_Diaria.resources
+C:\Users\DELL\Desktop\labo analisis\holaaaaaa\Nueva carpeta (5)\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.FacturaporPagar.resources
+C:\Users\DELL\Desktop\labo analisis\holaaaaaa\Nueva carpeta (5)\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.Cotizacion.resources
+C:\Users\DELL\Desktop\labo analisis\holaaaaaa\Nueva carpeta (5)\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Mantenimientos.frmMantenimientoBanco.resources
+C:\Users\DELL\Desktop\labo analisis\holaaaaaa\Nueva carpeta (5)\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Mantenimientos.frmMantenimientoMovimientoConcepto.resources
+C:\Users\DELL\Desktop\labo analisis\holaaaaaa\Nueva carpeta (5)\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Mantenimientos.frm_mant_clientes.resources
+C:\Users\DELL\Desktop\labo analisis\holaaaaaa\Nueva carpeta (5)\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Mantenimientos.frm_mant_vendedores.resources
+C:\Users\DELL\Desktop\labo analisis\holaaaaaa\Nueva carpeta (5)\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.MDIGeneral.resources
+C:\Users\DELL\Desktop\labo analisis\holaaaaaa\Nueva carpeta (5)\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.AutorizacionOrdenDeCompra.resources
+C:\Users\DELL\Desktop\labo analisis\holaaaaaa\Nueva carpeta (5)\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.CajaProveedor.resources
+C:\Users\DELL\Desktop\labo analisis\holaaaaaa\Nueva carpeta (5)\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.frmMovimientoDeBancos.resources
+C:\Users\DELL\Desktop\labo analisis\holaaaaaa\Nueva carpeta (5)\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.frm_factura_cobrar.resources
+C:\Users\DELL\Desktop\labo analisis\holaaaaaa\Nueva carpeta (5)\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.frm_pedidos.resources
+C:\Users\DELL\Desktop\labo analisis\holaaaaaa\Nueva carpeta (5)\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.MovimientoProveedores.resources
+C:\Users\DELL\Desktop\labo analisis\holaaaaaa\Nueva carpeta (5)\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.Mov_bancario.resources
+C:\Users\DELL\Desktop\labo analisis\holaaaaaa\Nueva carpeta (5)\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.OrdenesdeCompra.resources
+C:\Users\DELL\Desktop\labo analisis\holaaaaaa\Nueva carpeta (5)\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.TrasladoDeProducto.resources
+C:\Users\DELL\Desktop\labo analisis\holaaaaaa\Nueva carpeta (5)\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Properties.Resources.resources
+C:\Users\DELL\Desktop\labo analisis\holaaaaaa\Nueva carpeta (5)\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\labo analisis\holaaaaaa\Nueva carpeta (5)\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\labo analisis\holaaaaaa\Nueva carpeta (5)\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.dll
+C:\Users\DELL\Desktop\labo analisis\holaaaaaa\Nueva carpeta (5)\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.pdb
+C:\Users\DELL\Desktop\labo analisis\holaaaaaa\Nueva carpeta (5)\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\bin\Debug\CapaVistaERP.dll
+C:\Users\DELL\Desktop\labo analisis\holaaaaaa\Nueva carpeta (5)\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\bin\Debug\CapaVistaERP.pdb
+C:\Users\DELL\Desktop\labo analisis\holaaaaaa\Nueva carpeta (5)\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\bin\Debug\CapaControladorERP.dll
+C:\Users\DELL\Desktop\labo analisis\holaaaaaa\Nueva carpeta (5)\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\bin\Debug\CapaVistaNav.dll
+C:\Users\DELL\Desktop\labo analisis\holaaaaaa\Nueva carpeta (5)\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\bin\Debug\CapaModeloERP.dll
+C:\Users\DELL\Desktop\labo analisis\holaaaaaa\Nueva carpeta (5)\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\bin\Debug\CapaControladorNav.dll
+C:\Users\DELL\Desktop\labo analisis\holaaaaaa\Nueva carpeta (5)\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\bin\Debug\Modelo_Seguridad.dll
+C:\Users\DELL\Desktop\labo analisis\holaaaaaa\Nueva carpeta (5)\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\bin\Debug\CapaModeloNav.dll
+C:\Users\DELL\Desktop\labo analisis\holaaaaaa\Nueva carpeta (5)\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\bin\Debug\CapaControladorERP.pdb
+C:\Users\DELL\Desktop\labo analisis\holaaaaaa\Nueva carpeta (5)\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\bin\Debug\CapaVistaNav.pdb
+C:\Users\DELL\Desktop\labo analisis\holaaaaaa\Nueva carpeta (5)\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\bin\Debug\CapaModeloERP.pdb
+C:\Users\DELL\Desktop\labo analisis\holaaaaaa\Nueva carpeta (5)\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\bin\Debug\CapaControladorNav.pdb
+C:\Users\DELL\Desktop\labo analisis\holaaaaaa\Nueva carpeta (5)\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\bin\Debug\CapaModeloNav.pdb
+C:\Users\DELL\Desktop\labo analisis\holaaaaaa\Nueva carpeta (5)\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.csproj.CopyComplete
+C:\Users\DELL\Desktop\labo analisis\holaaaaaa\Nueva carpeta (5)\ProyectoMigracion_G1\Equipo1\Codigo\Modulos\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Mantenimientos.frm_mant_agregar_cuenta.resources
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Preparación\MDIGENERAL\CapaVistaERP\bin\Debug\CapaVistaERP.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Preparación\MDIGENERAL\CapaVistaERP\bin\Debug\CapaVistaERP.pdb
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Preparación\MDIGENERAL\CapaVistaERP\bin\Debug\CapaControladorERP.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Preparación\MDIGENERAL\CapaVistaERP\bin\Debug\CapaModeloERP.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Preparación\MDIGENERAL\CapaVistaERP\bin\Debug\CapaControladorNav.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Preparación\MDIGENERAL\CapaVistaERP\bin\Debug\Modelo_Seguridad.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Preparación\MDIGENERAL\CapaVistaERP\bin\Debug\CapaModeloNav.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Preparación\MDIGENERAL\CapaVistaERP\bin\Debug\CapaControladorERP.pdb
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Preparación\MDIGENERAL\CapaVistaERP\bin\Debug\CapaVistaNav.pdb
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Preparación\MDIGENERAL\CapaVistaERP\bin\Debug\CapaModeloERP.pdb
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Preparación\MDIGENERAL\CapaVistaERP\bin\Debug\CapaControladorNav.pdb
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Preparación\MDIGENERAL\CapaVistaERP\bin\Debug\CapaModeloNav.pdb
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Preparación\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.csproj.AssemblyReference.cache
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Preparación\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Mantenimientos.frmMantenimientoCuentaBancaria.resources
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Preparación\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Mantenimientos.frmMovimientoInventario.resources
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Preparación\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Mantenimientos.frmProductos.resources
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Preparación\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Mantenimientos.frm_mant_agregar_cuenta.resources
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Preparación\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Mantenimientos.frm_Mant_Proveedor.resources
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Preparación\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Mantenimientos.frm_mant_tipo_de_cambio.resources
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Preparación\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Mantenimientos.frm_Mant_TransProveedores.resources
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Preparación\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.BuscarCompras.resources
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Preparación\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.BuscarOrdenCompra.resources
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Preparación\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.BuscarProveedor.resources
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Preparación\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.Compras.resources
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Preparación\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.Dispo_Diaria.resources
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Preparación\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.FacturaporPagar.resources
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Preparación\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.Cotizacion.resources
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Preparación\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Mantenimientos.frmMantenimientoBanco.resources
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Preparación\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Mantenimientos.frmMantenimientoMovimientoConcepto.resources
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Preparación\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Mantenimientos.frm_mant_clientes.resources
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Preparación\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Mantenimientos.frm_mant_vendedores.resources
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Preparación\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.MDIGeneral.resources
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Preparación\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.AutorizacionOrdenDeCompra.resources
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Preparación\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.CajaProveedor.resources
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Preparación\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.frmMovimientoDeBancos.resources
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Preparación\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.frm_factura_cobrar.resources
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Preparación\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.frm_pedidos.resources
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Preparación\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.MovimientoProveedores.resources
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Preparación\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.Mov_bancario.resources
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Preparación\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.OrdenesdeCompra.resources
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Preparación\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.TrasladoDeProducto.resources
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Preparación\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Properties.Resources.resources
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Preparación\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.csproj.GenerateResource.cache
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Preparación\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.csproj.CoreCompileInputs.cache
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Preparación\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.csproj.CopyComplete
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Preparación\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Preparación\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.pdb
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Examen\PrototipoIS2P2024\MDIGENERAL\CapaVistaERP\bin\Debug\CapaVistaERP.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Examen\PrototipoIS2P2024\MDIGENERAL\CapaVistaERP\bin\Debug\CapaVistaERP.pdb
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Examen\PrototipoIS2P2024\MDIGENERAL\CapaVistaERP\bin\Debug\CapaControladorERP.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Examen\PrototipoIS2P2024\MDIGENERAL\CapaVistaERP\bin\Debug\CapaVistaNav.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Examen\PrototipoIS2P2024\MDIGENERAL\CapaVistaERP\bin\Debug\CapaModeloERP.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Examen\PrototipoIS2P2024\MDIGENERAL\CapaVistaERP\bin\Debug\CapaControladorNav.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Examen\PrototipoIS2P2024\MDIGENERAL\CapaVistaERP\bin\Debug\Modelo_Seguridad.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Examen\PrototipoIS2P2024\MDIGENERAL\CapaVistaERP\bin\Debug\CapaModeloNav.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Examen\PrototipoIS2P2024\MDIGENERAL\CapaVistaERP\bin\Debug\CapaControladorERP.pdb
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Examen\PrototipoIS2P2024\MDIGENERAL\CapaVistaERP\bin\Debug\CapaVistaNav.pdb
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Examen\PrototipoIS2P2024\MDIGENERAL\CapaVistaERP\bin\Debug\CapaModeloERP.pdb
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Examen\PrototipoIS2P2024\MDIGENERAL\CapaVistaERP\bin\Debug\CapaControladorNav.pdb
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Examen\PrototipoIS2P2024\MDIGENERAL\CapaVistaERP\bin\Debug\CapaModeloNav.pdb
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Examen\PrototipoIS2P2024\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.csproj.AssemblyReference.cache
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Examen\PrototipoIS2P2024\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Mantenimientos.frm_Mant_Proveedor.resources
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Examen\PrototipoIS2P2024\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.BuscarCompras.resources
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Examen\PrototipoIS2P2024\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.BuscarOrdenCompra.resources
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Examen\PrototipoIS2P2024\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.BuscarProveedor.resources
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Examen\PrototipoIS2P2024\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.Compras.resources
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Examen\PrototipoIS2P2024\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.Dispo_Diaria.resources
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Examen\PrototipoIS2P2024\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.FacturaporPagar.resources
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Examen\PrototipoIS2P2024\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.Cotizacion.resources
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Examen\PrototipoIS2P2024\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.MDIGeneral.resources
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Examen\PrototipoIS2P2024\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.AutorizacionOrdenDeCompra.resources
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Examen\PrototipoIS2P2024\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.CajaProveedor.resources
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Examen\PrototipoIS2P2024\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.frmMovimientoDeBancos.resources
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Examen\PrototipoIS2P2024\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.frm_factura_cobrar.resources
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Examen\PrototipoIS2P2024\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.frm_pedidos.resources
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Examen\PrototipoIS2P2024\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.MovimientoProveedores.resources
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Examen\PrototipoIS2P2024\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.Mov_bancario.resources
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Examen\PrototipoIS2P2024\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.OrdenesdeCompra.resources
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Examen\PrototipoIS2P2024\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Procesos.TrasladoDeProducto.resources
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Examen\PrototipoIS2P2024\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.Properties.Resources.resources
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Examen\PrototipoIS2P2024\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.csproj.GenerateResource.cache
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Examen\PrototipoIS2P2024\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.csproj.CoreCompileInputs.cache
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Examen\PrototipoIS2P2024\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.csproj.CopyComplete
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Examen\PrototipoIS2P2024\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Examen\PrototipoIS2P2024\MDIGENERAL\CapaVistaERP\obj\Debug\CapaVistaERP.pdb

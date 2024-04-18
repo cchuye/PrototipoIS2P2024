@@ -1,0 +1,65 @@
+C:\Users\olste\Desktop\Navegador\Nav\Codigo\Componentes\Navegador\CapaControlador\bin\Debug\CapaControladorNav.dll
+C:\Users\olste\Desktop\Navegador\Nav\Codigo\Componentes\Navegador\CapaControlador\bin\Debug\CapaControladorNav.pdb
+C:\Users\olste\Desktop\Navegador\Nav\Codigo\Componentes\Navegador\CapaControlador\bin\Debug\CapaModeloNav.dll
+C:\Users\olste\Desktop\Navegador\Nav\Codigo\Componentes\Navegador\CapaControlador\bin\Debug\CapaVistaNav.dll
+C:\Users\olste\Desktop\Navegador\Nav\Codigo\Componentes\Navegador\CapaControlador\bin\Debug\Seguridad_Controlador.dll
+C:\Users\olste\Desktop\Navegador\Nav\Codigo\Componentes\Navegador\CapaControlador\bin\Debug\Modelo_Seguridad.dll
+C:\Users\olste\Desktop\Navegador\Nav\Codigo\Componentes\Navegador\CapaControlador\bin\Debug\CapaModeloNav.pdb
+C:\Users\olste\Desktop\Navegador\Nav\Codigo\Componentes\Navegador\CapaControlador\bin\Debug\CapaVistaNav.pdb
+C:\Users\olste\Desktop\Navegador\Nav\Codigo\Componentes\Navegador\CapaControlador\obj\Debug\CapaControladorNav.csproj.AssemblyReference.cache
+C:\Users\olste\Desktop\Navegador\Nav\Codigo\Componentes\Navegador\CapaControlador\obj\Debug\CapaControladorNav.csproj.CoreCompileInputs.cache
+C:\Users\olste\Desktop\Navegador\Nav\Codigo\Componentes\Navegador\CapaControlador\obj\Debug\CapaControladorNav.csproj.CopyComplete
+C:\Users\olste\Desktop\Navegador\Nav\Codigo\Componentes\Navegador\CapaControlador\obj\Debug\CapaControladorNav.dll
+C:\Users\olste\Desktop\Navegador\Nav\Codigo\Componentes\Navegador\CapaControlador\obj\Debug\CapaControladorNav.pdb
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Componentes\Navegador\CapaControlador\bin\Debug\CapaControladorNav.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Componentes\Navegador\CapaControlador\bin\Debug\CapaControladorNav.pdb
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Componentes\Navegador\CapaControlador\bin\Debug\CapaModeloNav.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Componentes\Navegador\CapaControlador\bin\Debug\CapaVistaNav.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Componentes\Navegador\CapaControlador\bin\Debug\Seguridad_Controlador.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Componentes\Navegador\CapaControlador\bin\Debug\Modelo_Seguridad.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Componentes\Navegador\CapaControlador\bin\Debug\CapaModeloNav.pdb
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Componentes\Navegador\CapaControlador\bin\Debug\CapaVistaNav.pdb
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Componentes\Navegador\CapaControlador\obj\Debug\CapaControladorNav.csproj.AssemblyReference.cache
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Componentes\Navegador\CapaControlador\obj\Debug\CapaControladorNav.csproj.CoreCompileInputs.cache
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Componentes\Navegador\CapaControlador\obj\Debug\CapaControladorNav.csproj.CopyComplete
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Componentes\Navegador\CapaControlador\obj\Debug\CapaControladorNav.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Proyecto Migración\ProyectoMigracion_G1\Equipo1\Codigo\Componentes\Navegador\CapaControlador\obj\Debug\CapaControladorNav.pdb
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Componentes\Navegador\CapaControlador\bin\Debug\CapaControladorNav.dll
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Componentes\Navegador\CapaControlador\bin\Debug\CapaControladorNav.pdb
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Componentes\Navegador\CapaControlador\bin\Debug\CapaModeloNav.dll
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Componentes\Navegador\CapaControlador\bin\Debug\CapaVistaNav.dll
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Componentes\Navegador\CapaControlador\bin\Debug\Seguridad_Controlador.dll
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Componentes\Navegador\CapaControlador\bin\Debug\Modelo_Seguridad.dll
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Componentes\Navegador\CapaControlador\bin\Debug\CapaModeloNav.pdb
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Componentes\Navegador\CapaControlador\bin\Debug\CapaVistaNav.pdb
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Componentes\Navegador\CapaControlador\obj\Debug\CapaControladorNav.csproj.AssemblyReference.cache
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Componentes\Navegador\CapaControlador\obj\Debug\CapaControladorNav.csproj.CoreCompileInputs.cache
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Componentes\Navegador\CapaControlador\obj\Debug\CapaControladorNav.csproj.CopyComplete
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Componentes\Navegador\CapaControlador\obj\Debug\CapaControladorNav.dll
+C:\Users\d_car\OneDrive\Documentos\GitHub\ProyectoMigracion\ProyectoMigracion_G1\Equipo1\Codigo\Componentes\Navegador\CapaControlador\obj\Debug\CapaControladorNav.pdb
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Componentes\Navegador\CapaControlador\bin\Debug\CapaControladorNav.dll
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Componentes\Navegador\CapaControlador\bin\Debug\CapaControladorNav.pdb
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Componentes\Navegador\CapaControlador\bin\Debug\CapaModeloNav.dll
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Componentes\Navegador\CapaControlador\bin\Debug\CapaVistaNav.dll
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Componentes\Navegador\CapaControlador\bin\Debug\Seguridad_Controlador.dll
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Componentes\Navegador\CapaControlador\bin\Debug\Modelo_Seguridad.dll
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Componentes\Navegador\CapaControlador\bin\Debug\CapaModeloNav.pdb
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Componentes\Navegador\CapaControlador\bin\Debug\CapaVistaNav.pdb
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Componentes\Navegador\CapaControlador\obj\Debug\CapaControladorNav.csproj.AssemblyReference.cache
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Componentes\Navegador\CapaControlador\obj\Debug\CapaControladorNav.csproj.CoreCompileInputs.cache
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Componentes\Navegador\CapaControlador\obj\Debug\CapaControladorNav.csproj.CopyComplete
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Componentes\Navegador\CapaControlador\obj\Debug\CapaControladorNav.dll
+C:\Users\callo\Music\GIT 2024\ProyectoMigracion_G1\Equipo1\Codigo\Componentes\Navegador\CapaControlador\obj\Debug\CapaControladorNav.pdb
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Examen\PrototipoIS2P2024\Navegador\CapaControlador\bin\Debug\CapaControladorNav.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Examen\PrototipoIS2P2024\Navegador\CapaControlador\bin\Debug\CapaControladorNav.pdb
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Examen\PrototipoIS2P2024\Navegador\CapaControlador\bin\Debug\CapaModeloNav.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Examen\PrototipoIS2P2024\Navegador\CapaControlador\bin\Debug\CapaVistaNav.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Examen\PrototipoIS2P2024\Navegador\CapaControlador\bin\Debug\Seguridad_Controlador.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Examen\PrototipoIS2P2024\Navegador\CapaControlador\bin\Debug\Modelo_Seguridad.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Examen\PrototipoIS2P2024\Navegador\CapaControlador\bin\Debug\CapaModeloNav.pdb
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Examen\PrototipoIS2P2024\Navegador\CapaControlador\bin\Debug\CapaVistaNav.pdb
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Examen\PrototipoIS2P2024\Navegador\CapaControlador\obj\Debug\CapaControladorNav.csproj.AssemblyReference.cache
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Examen\PrototipoIS2P2024\Navegador\CapaControlador\obj\Debug\CapaControladorNav.csproj.CoreCompileInputs.cache
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Examen\PrototipoIS2P2024\Navegador\CapaControlador\obj\Debug\CapaControladorNav.csproj.CopyComplete
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Examen\PrototipoIS2P2024\Navegador\CapaControlador\obj\Debug\CapaControladorNav.dll
+C:\Users\Carol\OneDrive\Escritorio\Noveno Semestre\Ingeniería de Software\Parciales\Segundo Parcial\Examen\PrototipoIS2P2024\Navegador\CapaControlador\obj\Debug\CapaControladorNav.pdb
